@@ -20,6 +20,7 @@ hash,key
 0x046C8B86,abigail2
 0x0484D815,appfixersecurity
 0x0496B311,cam_coord_sender
+0x04C998FE,bail_office_seating
 0x050117E8,launcher_mrsphilips
 0x0544B90B,am_cp_collection
 0x055EDE8C,fm_hideout_controler
@@ -48,6 +49,7 @@ hash,key
 0x0ADDD94C,debug
 0x0B22A6AF,fm_content_test
 0x0B5C1070,re_getaway_driver
+0x0B66C264,rcpdata
 0x0B87DC63,gb_transporter
 0x0BA18B4C,am_mp_auto_shop
 0x0BB446FD,flowstartaccept
@@ -98,6 +100,7 @@ hash,key
 0x19F4EE3D,ugc_global_registration
 0x1A160B48,fm_content_gunrunning
 0x1A207399,fixer_hq_seating
+0x1A32DD6A,am_mp_bail_office
 0x1A6E43E3,scriptplayground
 0x1AB4168D,atm_trigger
 0x1B67DDEF,appbroadcast
@@ -232,6 +235,7 @@ hash,key
 0x3A2FA098,re_bikethief
 0x3A35FD6F,creation_startup
 0x3A5BBA05,am_casino_limo
+0x3A7231B0,fm_content_pizza_delivery
 0x3B687CD3,re_duel
 0x3BBCAFFD,apporganiser
 0x3BF97FCD,tennis
@@ -283,9 +287,11 @@ hash,key
 0x45BD5447,gb_point_to_point
 0x460D1F86,armenian2
 0x46E6DB5A,bailbond2
+0x473B26BE,am_mp_vinewood_premium_modshop
 0x478FC909,extreme2
 0x47E9417E,sc_lb_global_block
 0x480E7A1A,am_mp_acid_lab
+0x48248E41,fm_content_ufo_abduction
 0x4834763F,appmpbossagency
 0x4838AB36,paradise2
 0x4840FEF0,am_heli_taxi
@@ -368,6 +374,7 @@ hash,key
 0x5A98B2BE,fm_content_clubhouse_contracts
 0x5ABB0BE9,player_scene_f_taxi
 0x5AD141B8,scene_builder
+0x5B210BB6,script_release.rpf___pilotschool_dlc_startup
 0x5B2DB305,pausemenu_sp_repeat
 0x5B43D89A,re_border
 0x5B94D461,player_scene_m_shopping
@@ -395,6 +402,7 @@ hash,key
 0x61FF0C31,fm_content_acid_lab_setup
 0x62773681,am_prostitute
 0x62C09CC6,mptestbed
+0x62CC851E,fm_content_bounty_targets
 0x62EA78D0,fm_content_business_battles
 0x63389DB5,gb_biker_last_respects
 0x63905267,arena_box_bench_seats
@@ -415,6 +423,7 @@ hash,key
 0x68867AF7,am_island_backup_heli
 0x6908A034,photographywildlife
 0x692F8E30,am_mp_vehicle_reward
+0x694EB570,appbailoffice
 0x6954234A,fm_content_vehrob_disrupt
 0x696D2BE0,fm_mission_creator
 0x69BDB2D8,am_armwrestling_apartment
@@ -456,6 +465,7 @@ hash,key
 0x711155FA,solomon2
 0x7166BD4A,am_mp_casino
 0x71C13B55,gb_headhunter
+0x71CAC364,script_debug.rpf___pilot_school
 0x71F1701B,mission_triggerer_d
 0x724BF803,armenian1
 0x724EBA87,gb_sightseer
@@ -516,6 +526,7 @@ hash,key
 0x804DA739,mg_race_to_point
 0x80925960,wardrobe_sp
 0x80A17ECA,michael1
+0x80A96CAF,public_mission_creator
 0x80AF754F,shrinkletter
 0x80CFE974,blip_controller
 0x80DB583B,mission_repeat_controller
@@ -541,6 +552,7 @@ hash,key
 0x87D3A61F,thelastone
 0x881750F6,puzzle
 0x8822F9C3,gpb_tonya
+0x88472185,appvinewoodmenu
 0x8937FD24,josh1
 0x8961D933,act_cinema
 0x899ABB38,fameorshame_eps_1
@@ -661,6 +673,7 @@ hash,key
 0xA18B9892,family_scene_m
 0xA1E75A51,me_amanda1
 0xA220E288,debug_ped_data
+0xA23D9849,script_debug.rpf___pilotschool_dlc_startup
 0xA29E8148,gb_carjacking
 0xA332D6DC,forsalesigns
 0xA39C1F72,ob_vend1
@@ -842,6 +855,7 @@ hash,key
 0xCD7DC30D,launcher_basejumpheli
 0xCD81E9E7,dreyfuss1
 0xCD9869CE,save_anywhere
+0xCE048801,vinewood_premium_garage_carmod
 0xCE27944E,hacker_truck_carmod
 0xCE290220,scripttest4
 0xCE92791D,finale_heist1
@@ -855,7 +869,6 @@ hash,key
 0xD1894172,am_mp_rc_vehicle
 0xD1BE4A95,appbusinesshub
 0xD1F35008,agency_heist2
-0xD1F9D9C5,valentinerpreward2
 0xD20D220E,re_gangfight
 0xD21EB4B0,pickup_controller
 0xD2303939,veh_play_widget
@@ -882,12 +895,14 @@ hash,key
 0xD725D9E4,jewelry_prep1b
 0xD76D873D,am_mp_casino_apartment
 0xD8133249,am_boat_taxi
+0xD84E1F4F,script_release.rpf___pilot_school
 0xD8D7DD27,fm_maintain_cloud_header_data
 0xD8DD2E81,restrictedareas
 0xD9266192,gtest_divingfromcar
 0xD96D699D,comms_controller
 0xD9751E61,gb_vehicle_export
 0xD9866E4A,family5
+0xD9EB39D9,localpopulator
 0xD9EE6178,gb_biker_burn_assets
 0xD9FF97CF,combat_test
 0xDA0438B0,fm_content_vehrob_cargo_ship
@@ -937,6 +952,7 @@ hash,key
 0xE24A689C,sp_dlc_registration
 0xE27F0F0D,barry3a
 0xE2BBABBA,buildingsiteambience
+0xE3353052,fm_content_dispatch_work
 0xE3940B1C,tennis_network_mp
 0xE3E84B48,fm_content_source_research
 0xE4B4325F,globals_fmmcstruct2_registration
@@ -1063,4 +1079,5 @@ hash,key
 0xFE9DDB29,tonya4
 0xFEA7663D,epsilon2
 0xFEB6E7D1,rampage3
+0xFF917452,fm_content_daily_bounty
 0xFFE9D53B,ob_airdancer

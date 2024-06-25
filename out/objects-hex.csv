@@ -2,6 +2,7 @@ hash,key
 0x0006CFBE,ba_prop_glass_garage_opaque
 0x0009C9E4,v_res_cctv
 0x000AB628,ch3_lod_emissive1_slod3
+0x000B1625,m24_1_prop_m41_life_pstr_01a
 0x000B75B9,prop_plate_02
 0x0018EC7E,sf_mpapyacht_glass04
 0x001EC589,des_fib_ceil_root
@@ -106,6 +107,7 @@ hash,key
 0x016E3F3D,prop_shop_front_door_l
 0x0179DD21,tr_prop_tr_officedesk_01a
 0x017D003B,prop_mp_barrier_02
+0x0181DB48,m24_1_prop_m24_1_carrier_docklight_01
 0x01859441,sm_smugdlc_int_01_shell
 0x0185B135,prop_parasol_03_c
 0x0189CB2B,stt_prop_wallride_02
@@ -113,6 +115,7 @@ hash,key
 0x018EDD5A,h4_prop_battle_lights_int_03_lr3
 0x01904B96,v_24_knt_over_shadow_boxes
 0x01923C2F,ch_prop_davies_door_01a
+0x019788BC,m24_1_prop_m41_scrim_01a
 0x01A1F6B8,v_ret_gc_ammo3
 0x01A22A42,h4_prop_battle_dj_deck_01a_a
 0x01A6C081,m23_1_prop_m31_avisamagnet_01a
@@ -144,7 +147,9 @@ hash,key
 0x0208E142,prop_beachbag_01
 0x020927F2,v_28_blab_over
 0x021EE657,sf_prop_v_43_safe_s_bk_01b
+0x0223A998,m24_1_prop_m41_stairsdetail_01e
 0x0227BD2B,xm3_int1_vent002
+0x0227F463,m24_1_prop_m41_kino_light_01a
 0x022CEC48,id1_lod_id1_emissive_slod
 0x022DA736,apa_mp_h_acc_vase_05
 0x0231AE8C,prop_vault_door_scene
@@ -196,6 +201,7 @@ hash,key
 0x02CE929E,v_res_mplinth
 0x02CED5FA,v_8_stairspart2
 0x02CF12E0,v_61_ktn_mesh_lights
+0x02CFAFDA,m24_1_prop_m41_race_barrier_01
 0x02D23CEC,prop_table_05_chr
 0x02D6167A,prop_ex_random_g_tr
 0x02DF506C,v_ret_ta_mag2
@@ -296,6 +302,7 @@ hash,key
 0x040BD26A,prop_bar_measrjug
 0x040C3A75,prop_cs4_10_tr_gd_01
 0x04106F86,cloudhat_contrails_d
+0x041619DA,m24_1_prop_m24_1_carrier_yah_seat_01
 0x04172C6A,m23_2_prop_m32_vestcrate_02b
 0x041D0BAD,v_ilev_csr_lod_normal
 0x0426F46E,prop_dock_crane_02_ld
@@ -643,6 +650,7 @@ hash,key
 0x08374BBE,v_61_bd1_mesh_lamp
 0x0839EAE1,w_pi_pistol_luxe_mag2
 0x083AB753,p_s_scuba_mask_s
+0x083DA4E2,m24_1_prop_m41_anchor_01a
 0x083DF517,stt_prop_stunt_tube_crn2
 0x083E4F16,vw_prop_vw_dia_char_06a
 0x084592ED,prop_mp_drug_pack_red
@@ -706,6 +714,7 @@ hash,key
 0x08D7CCF6,xm3_prop_xm3_barrel_02a
 0x08DA1C0E,prop_juicestand
 0x08E79173,sf_int2_concrete_seam_decal002
+0x08ECAB0A,m24_1_prop_m24_1_carrier_cargo_03a
 0x08EDA628,vw_prop_vw_wallart_92a
 0x08EDD063,v_res_m_wctoiletroll
 0x08EEE283,v_med_curtains
@@ -721,6 +730,7 @@ hash,key
 0x091914E4,des_farmhs_root2
 0x091CD3B2,prop_ld_rail_01
 0x091DA0E6,v_11_abbslaughtshad2
+0x091F306B,m24_1_prop_m24_1_carrier_stair_01a
 0x0923FFCB,ng_proc_spraycan01a
 0x0929430C,vfx_it1_13
 0x092A042B,prop_boxpile_06b
@@ -765,6 +775,7 @@ hash,key
 0x09AC6886,vw_prop_vw_wallart_101a
 0x09AE378D,v_16_rpt_mesh_pictures
 0x09B1ABB1,xm3_int3_hut_graf_6
+0x09B292A2,m24_1_prop_m41_crate_01a
 0x09B83428,v_ret_baglrg
 0x09BAEA88,prop_phys_wades_head
 0x09BE1DA4,ba_prop_battle_lights_01_dim
@@ -828,6 +839,7 @@ hash,key
 0x0A6A4732,prop_fncwood_03a
 0x0A72DFC5,ng_proc_cigarette01a
 0x0A73039F,prop_parasol_05
+0x0A7444F7,m24_1_prop_m41_hackterminal_01a
 0x0A771BC0,xm3_int3_intwaremed_lamp_proxy008
 0x0A78504D,h4_prop_int_glam_table
 0x0A7A4A10,prop_dolly_02
@@ -885,8 +897,10 @@ hash,key
 0x0B2F32DE,ch_prop_ch_glassdoor_01
 0x0B34533C,ba_prop_battle_bag_01b
 0x0B3502AA,tr_prop_tr_sand_01a
+0x0B35E3C9,m24_1_prop_m41_redlight_on_02a
 0x0B37FD0F,vw_prop_casino_art_bowling_01b
 0x0B3C6B5C,prop_cs_para_ropebit
+0x0B410591,m24_1_prop_m41_wires_01a
 0x0B4193C9,v_34_cb_glass3
 0x0B41B36B,xm3_int1_proxy_mover__002
 0x0B430838,m23_2_prop_m32_bag_professionals_01a
@@ -1019,6 +1033,7 @@ hash,key
 0x0CE96336,tr_int2_chimney_07
 0x0CF39A5F,prop_aircon_s_04a
 0x0CF5FD52,ch_prop_ch_utility_door_01a
+0x0CFAC999,m24_1_prop_m41_zombiestaff_01a
 0x0CFDAFC3,sm_floor_decal_1
 0x0CFFB6B0,prop_dumpster_01a
 0x0D06C604,prop_bush_ivy_01_bk
@@ -1143,6 +1158,7 @@ hash,key
 0x0EB31C78,prop_byard_elecbox03
 0x0EB3726D,tr_prop_meth_hcacid
 0x0EB8FDCE,v_74_it1_ceiling_smoke_07_skin
+0x0EBE6131,m24_1_prop_m41_highway_paddle_5
 0x0EBECAD2,v_ret_fhglassfrmsml
 0x0EC688EB,prop_drop_crate_01
 0x0ECE5CF9,sf_int3_concertina_doors
@@ -1471,6 +1487,7 @@ hash,key
 0x127150B8,prop_shuttering03
 0x1277DD2B,v_44_kitch_moved
 0x127BF163,v_44_master_movebot
+0x127EF9FA,m24_1_prop_m41_salvage_floor_col_prx
 0x1280FE0D,h4_prop_office_painting_01b
 0x128147DE,p_medal_01_s
 0x128352FC,prop_fncwood_07a
@@ -1592,6 +1609,7 @@ hash,key
 0x140F36DA,prop_mem_teddy_01
 0x1411F055,xm_prop_crates_rifles_03a
 0x141252D1,xs_prop_arena_wall_rising_01a
+0x14130993,m24_1_prop_m41_officepile_01a
 0x1414F24C,prop_pot_plant_05b
 0x141614E9,sf_fixer_door_hanger
 0x1417186A,prop_telegraph_01b
@@ -1789,6 +1807,7 @@ hash,key
 0x16ACAAB4,v_metro_steps006seoul
 0x16AE5135,prop_fire_driser_4a
 0x16B2EE75,prop_micro_cs_01
+0x16B4C2AD,m24_1_prop_m41_fake_wall_01a
 0x16B5A3DC,v_ind_cf_flour
 0x16B803C2,apa_mp_h_acc_phone_01
 0x16B8E523,stt_prop_tyre_wall_0l015
@@ -1812,6 +1831,7 @@ hash,key
 0x16EE72F7,sm_hanger_office_moden_sofa
 0x16F063CB,gr_prop_gr_target_large_01a
 0x16F21C62,bkr_prop_clubhouse_laptop_01a
+0x16F3826A,m24_1_farm_extra_dressing
 0x16F93072,prop_prototype_minibomb
 0x16FC4A85,sum_mpapyacht_p_map_h
 0x1702CE19,prop_table_03
@@ -1911,6 +1931,7 @@ hash,key
 0x17EC045A,sf_prop_sf_art_bullet_01a
 0x17ECA9BB,tr_id2_18_tuner_meetup_grnd_hd
 0x17F0108E,kt1_lod_emi_6_21_proxy
+0x17F0568E,m24_1_prop_m41_block_dmy_01e
 0x17F682D4,sf_int1_stairs
 0x17F8698E,xm3_int2_xm3_emissive_nr_es2
 0x17F8A1F9,sf_int1_laptop_armoury
@@ -1938,6 +1959,7 @@ hash,key
 0x183B2223,prop_facgate_03b_l
 0x183DF123,prop_cs_cashenvelope
 0x18451A82,v_44_g_scubagear
+0x1846502D,m24_1_prop_m41_greenscreen_01d
 0x18469818,h4_mp_h_acc_artwallm_02
 0x18504644,sr_prop_spec_tube_04a
 0x1853BF91,prop_ic_deadl_b
@@ -2036,8 +2058,10 @@ hash,key
 0x1985F9FC,v_8_framehll3
 0x198FBBB2,gr_prop_inttruck_light_gu_b_bk
 0x199793EF,tr_prop_tr_blueprt_01a
+0x199E588D,m24_1_prop_m41_stairsdetail_01h
 0x19A7AAA7,m23_1_prop_m31_screen_rt_01a
 0x19A7DA0D,stt_prop_stunt_track_uturn
+0x19A98355,m24_1_prop_m24_1_carrier_yah_table_01
 0x19AAADC3,prop_in_tray_01
 0x19AAD179,xs_propint5_waste_05_ground_line
 0x19AE1F4D,ch_prop_casino_drone_01a
@@ -2071,6 +2095,7 @@ hash,key
 0x1A0B5C4D,v_74_it1_off3_deca
 0x1A0BC25B,prop_knife
 0x1A0C3D41,prop_facgate_03_l
+0x1A0DA37D,m24_1_prop_m24_1_carrier_ord_01
 0x1A0E2225,prop_railstack02
 0x1A0F9496,gr_prop_gr_chair02_ped
 0x1A117FD1,prop_bench_10
@@ -2116,6 +2141,7 @@ hash,key
 0x1A72FF10,xm3_prop_xm3_bong_01a
 0x1A76E4F0,gr_prop_gr_crates_rifles_04a
 0x1A78B62B,stt_prop_sign_circuit_01
+0x1A80FDB5,m24_1_prop_m41_avenger_floor_col_prx
 0x1A8C838D,cs6_lod_slod3_04
 0x1A8CEE7F,p_planning_board_01
 0x1A91716C,apa_p_mp_door_05
@@ -2150,6 +2176,7 @@ hash,key
 0x1B04827A,des_vaultdoor001_root004
 0x1B061990,v_74_it1_ceiling_smoke_13_skin
 0x1B070FA5,xm_attach_geom_lighting_hangar_b
+0x1B097498,m24_1_prop_m41_arcade_safe_body
 0x1B0E6B19,prop_fncres_02d
 0x1B13C7D8,prop_coral_02
 0x1B148B51,prop_guard_tower_glass
@@ -2184,6 +2211,7 @@ hash,key
 0x1B6ED610,prop_coffin_02
 0x1B70016B,sf_int3_noise_damper_wood_05x
 0x1B734797,w_pi_pistol50_mag2
+0x1B749C9F,m24_1_prop_m41_jammer_01a
 0x1B78F8A0,h4_p_cs_rope05x_01a
 0x1B7C1D1E,prop_cable_hook_01
 0x1B803513,prop_ld_purse_01_lod
@@ -2229,6 +2257,7 @@ hash,key
 0x1BDA4A8A,h4_rig_dj_02_lights_04_c_scr
 0x1BDA97BA,sf_prop_socket_set_01b
 0x1BDB647E,w_sb_smgmk2_mag_hp
+0x1BE219CC,m24_1_prop_m41_spraycan_01a
 0x1BE51B89,tr_int1_mod_window_02
 0x1BEE6A51,h4_prop_rock_med_03
 0x1BF19C10,prop_gazebo_02
@@ -2256,7 +2285,9 @@ hash,key
 0x1C407029,prop_pool_ball_01
 0x1C44804C,vw_prop_casino_art_grenade_01a
 0x1C4543AA,w_pi_pistolmk2_slide_camo9
+0x1C4887F8,m24_1_prop_m41_clipboard_01a
 0x1C49C1EF,xs_prop_trophy_flags_01a
+0x1C4C4DD9,m24_1_prop_m41_curb_5_01d
 0x1C51D2D1,ch3_lod_water_slod3
 0x1C538166,w_pi_pistolmk2_mag_fmj
 0x1C53FF8D,prop_ic_arm_wh
@@ -2520,6 +2551,7 @@ hash,key
 0x1FCDDD24,hei_heist_din_chair_06
 0x1FCF1C2A,m23_1_base_cia_desk1
 0x1FD4CCE1,prop_irish_sign_05
+0x1FD96503,m24_1_prop_m41_stairsdetail_01g
 0x1FD9CDD9,prop_till_02
 0x1FDA072D,prop_pistol_holster
 0x1FDC965B,sr_prop_sr_target_2_04a
@@ -2617,7 +2649,9 @@ hash,key
 0x210F13E5,v_res_j_tablelamp2
 0x21112F28,vw_prop_vw_jackpot_on
 0x2113FA4B,v_16_bdrm_paintings002
+0x21189303,m24_1_prop_m41_candlelrg_01a
 0x211A00B0,prop_sink_03
+0x211BA3A9,m24_1_prop_m41_blinds_open_01a
 0x211F6111,v_ilev_blnds_clsd
 0x21243BDD,h4_prop_h4_coke_mixtube_02
 0x21270343,prop_mk_flag
@@ -2673,6 +2707,7 @@ hash,key
 0x21C52685,sf_hall_reflect_blocker
 0x21C545EA,prop_michaels_credit_tv
 0x21C6D689,prop_towel2_02
+0x21C9F58C,m24_1_prop_m41_gate_frame_01a
 0x21CF4486,sm_prop_smug_hangar_lamp_led_b
 0x21D112F7,prop_sealife_02
 0x21D49FC9,v_19_vanlobsigns
@@ -2689,6 +2724,7 @@ hash,key
 0x21E5B509,des_stilthouse_root4
 0x21E8D3F5,v_61_lng_poster1
 0x21EB92F3,hei_prop_yah_glass_07
+0x21EBAFE2,m24_1_prop_m41_movie_trailer_01a
 0x21F494C8,reh_int4_style_3_shell_dirt_decal7
 0x21F6F9F5,prop_facgate_01
 0x21F7DC85,sf_int1_dropdownlight048
@@ -2775,6 +2811,7 @@ hash,key
 0x230F9356,v_res_ivy
 0x23118A7E,ar_prop_ar_tube_4x_speed
 0x2313BF03,ex_prop_crate_wlife_sc
+0x23141283,m24_1_prop_m24_1_carrier_bombs_1
 0x23155EAD,sf_int3_lightswitch_01a002
 0x231A3778,prop_weight_2_5k
 0x231CC3D2,stt_prop_wallride_90r
@@ -2838,6 +2875,7 @@ hash,key
 0x23DD6B9D,w_me_dagger
 0x23DDE6DB,vw_prop_vw_colle_rsrgeneric
 0x23DE4B01,ba_prop_door_club_edgy_wc
+0x23DFD386,m24_1_prop_m41_ropeladder_01a
 0x23E3B0BA,prop_ped_pic_02
 0x23E64FB8,w_smug_bomb_03
 0x23E65084,xm3_int4_cdt_over_normal
@@ -2953,6 +2991,7 @@ hash,key
 0x25AB8D48,reh_prop_reh_tarpcrate_01a
 0x25B886FD,imp_prop_impexp_rack_04a
 0x25BFF45F,vw_prop_vw_chipsmachine_01a
+0x25C2F233,m24_1_prop_m41_block_dmy_01d
 0x25C64399,v_ret_ml_sweet8
 0x25CA1484,csx_seabed_bldr6_
 0x25CBF0E5,prop_bmu_01_b
@@ -3099,6 +3138,7 @@ hash,key
 0x27AA1E48,v_28_an1_refl
 0x27AD31DA,sm_hanger_smg_trusses
 0x27AF51EC,w_pi_flaregun_shell
+0x27AF6720,m24_1_prop_m41_hull_door_r
 0x27B173B6,v_corp_postbox
 0x27B1E10C,sf_int2_wallpaper00_06
 0x27B24135,prop_ex_b_time
@@ -3134,6 +3174,7 @@ hash,key
 0x280C49B9,tr_int1_comp_structure_07
 0x281065F7,v_74_it1_off3_ceil
 0x28108D50,xs_prop_arena_pipe_end_02a
+0x281192B3,m24_1_prop_m41_radio_01a
 0x28124A3E,v_ind_cs_striplight
 0x28126CC7,v_74_atr_hall_deta003
 0x28196879,prop_mugs_rm_flashb
@@ -3221,6 +3262,7 @@ hash,key
 0x291C9EBB,imp_prop_impexp_car_door_02a
 0x291CEA47,w_sg_pumpshotgun
 0x2922A227,v_19_payboothtrim
+0x29253FAF,m24_1_prop_m24_1_carrier_yah_glass_01
 0x292541D9,ch_prop_ch_moneybag_01a
 0x29257704,cloudhat_test_animsoft
 0x29264083,prop_vend_coffe_01
@@ -3270,6 +3312,7 @@ hash,key
 0x29B46142,ar_prop_ig_cp_loop_01c_l2
 0x29B9B4D4,vw_prop_vw_club_char_k_a
 0x29C189D0,xs_propint2_building_03
+0x29C24A05,m24_1_prop_m41_track_strgt_bar_xs
 0x29C26335,sum_prop_ac_rock_01d
 0x29C367AB,prop_h4_room_6x6_01a
 0x29C678FE,v_24_bdr_over_emmisve
@@ -3322,6 +3365,7 @@ hash,key
 0x2A59FA12,port_xr_cont_sm
 0x2A5C9793,vw_prop_vw_wallart_124a
 0x2A5D5A89,vw_prop_vw_jo_char_02a
+0x2A5DB3AC,m24_1_prop_m24_1_carrier_defense_02
 0x2A5DF4D5,prop_fnc_omesh_01a
 0x2A667310,stt_prop_track_straight_lm_bar
 0x2A674526,cs1_lod3_terrain_slod3_04
@@ -3429,6 +3473,7 @@ hash,key
 0x2BB25046,prop_roofvent_10b
 0x2BB8F7E0,prop_fnclink_02gate5
 0x2BBC4DBC,vw_prop_cas_card_club_03
+0x2BBEE1F4,m24_1_prop_m41_candypile_01a
 0x2BC3B3A0,v_31_tun09junk009a
 0x2BC3F8B8,prop_old_wood_chair_lod
 0x2BC62600,cs6_lod_slod3_03
@@ -3443,8 +3488,10 @@ hash,key
 0x2BE696F2,v_ind_ss_thread4
 0x2BE77A5B,prop_rock_5_smash2
 0x2BE9250D,v_ilev_ra_door2
+0x2BEB27D8,m24_1_prop_m24_1_carrier_yah_table_02
 0x2BEC7F6A,p_ilev_p_easychair_s
 0x2BEDCF90,ar_prop_ar_speed_ring
+0x2BF41B9C,m24_1_prop_m41_highway_paddle_3
 0x2BF6BBCF,stt_prop_hoop_constraction_01a
 0x2BF74DC5,v_16_high_lng_over_shadow2
 0x2BFAA188,apa_mp_h_lit_floorlamp_06
@@ -3503,6 +3550,8 @@ hash,key
 0x2CC1641D,ch_prop_ch_casino_shutter01x
 0x2CC8AFCB,v_serv_tc_bin1_
 0x2CC8FD67,reh_prop_reh_lantern_pk_01c
+0x2CCAA807,m24_1_prop_m41_officechair_01a
+0x2CCF6BEF,m24_1_prop_m41_desk_drawer_01a
 0x2CE227AC,w_ch_jerrycan
 0x2CE26922,v_8_framesp3
 0x2CE2804A,prop_grapes_02
@@ -3576,6 +3625,7 @@ hash,key
 0x2DB0150B,prop_ic_homing_rocket_wh
 0x2DB04373,sum_prop_dufocore_01a
 0x2DB5B343,xm3_mpchristmas3_additions_train_lod15
+0x2DB948D7,m24_1_prop_m24_1_carrier_yah_glass_03
 0x2DB95137,v_11_ab_dirty
 0x2DC601C1,xs_propint2_set_scifi_02_ems
 0x2DC7C832,sf_prop_sf_bench_piano_01a
@@ -3640,6 +3690,7 @@ hash,key
 0x2E5F6892,stt_prop_track_bend2_bar_l
 0x2E6217FF,sf_int3_lit_lamptable_02221
 0x2E699AAD,h4_prop_h4_coke_metalbowl_01
+0x2E6A4931,m24_1_prop_m24_1_carrier_yah_glass_10
 0x2E6F944C,des_glass_root2
 0x2E7221DE,h4_prop_door_club_glass_opaque
 0x2E72D572,stt_prop_stunt_tube_end
@@ -3731,6 +3782,7 @@ hash,key
 0x2F8B2BE6,prop_venice_counter_01
 0x2F8D2023,v_16_low_lng_mesh_tv
 0x2F8D6D45,ex_prop_crate_med_bc
+0x2F8DFAAD,m24_1_prop_m24_1_carrier_phone_01
 0x2F933425,p_film_set_static_01
 0x2F9B3EEC,prop_cs_fork
 0x2F9CD32D,ex_office_swag_counterfeit2
@@ -3841,6 +3893,7 @@ hash,key
 0x312F3A92,prop_cs_pebble
 0x3130CFE6,v_19_vanillasigneon2
 0x31314493,prop_glass_panel_05
+0x31320208,m24_1_prop_m41_greenscreen_01a
 0x31377D09,v_ilev_gc_door02
 0x3139DA90,sf_int1_3_dressing_thermal
 0x313AA6EC,tr_int1_mod_armchair_05
@@ -3936,6 +3989,7 @@ hash,key
 0x3248FAB7,sf_int1_dropdownlight029
 0x3250A31D,prop_sink_04
 0x3250D9D6,prop_telescope
+0x32544D27,m24_1_prop_m41_sign_closed_01a
 0x3256C688,ng_proc_beerbottle_01a
 0x32581830,ch_prop_ch_case_01a
 0x326006E2,ar_prop_ar_bblock_huge_03
@@ -4087,6 +4141,7 @@ hash,key
 0x34276919,v_73_vfx_mesh_dummy_04
 0x342CBDB4,stt_prop_tyre_wall_0r2
 0x34312619,xm3_prop_xm3_container_01d
+0x3438B4A6,m24_1_prop_m41_redlight_on_01a
 0x34390A52,v_74_it3_ceild
 0x343A237B,p_yoga_mat_01_s
 0x343BAF44,ch_prop_ch_desk_lamp
@@ -4288,6 +4343,7 @@ hash,key
 0x36BA4473,v_ind_rc_balec2
 0x36BA5BDE,v_corp_bk_bust
 0x36BE587A,sf_int1_comf_chair_4
+0x36BED81F,m24_1_prop_m41_fence_01a
 0x36C0F60D,w_smug_airmissile_01b
 0x36CA862E,xs_combined_dyst_06_build_03
 0x36CBD8DD,tr_int1_smoking_table2
@@ -4420,6 +4476,7 @@ hash,key
 0x385A3C0D,sf_mpapyacht_st_011
 0x385B5A41,xm3_int2_xm3_lights_floor_01
 0x385BCDBF,prop_h4_enemies_02a
+0x385CBEB3,m24_1_prop_m41_coftableb_01a
 0x385CF981,prop_wheat_grass_half
 0x3860F7F9,prop_palm_sm_01d
 0x3865464B,sf_int3_studio_window_01
@@ -4454,6 +4511,7 @@ hash,key
 0x38B47CD3,sub1_add_004
 0x38B6B4B6,h4_prop_battle_lights_stairs
 0x38B8C805,stt_prop_stunt_bblock_hump_02
+0x38BC96D1,m24_1_prop_m41_stairsdetail_01c
 0x38BF0080,h4_prop_h4_fence_seg_x3_01a
 0x38C28FB7,v_19_vabbarcables
 0x38C419EB,prop_arcade_02
@@ -4467,6 +4525,7 @@ hash,key
 0x38E06FB7,apa_mp_h_yacht_armchair_03
 0x38E41007,v_ret_gc_mug01
 0x38E520BE,cloudhat_horizon_a
+0x38E8A90C,m24_1_prop_m41_hospitalsign_01a
 0x38EE5E2C,sf_mpapyacht_glass08
 0x38EFB1E1,ex_prop_exec_cashpile
 0x38F80043,prop_veg_crop_06
@@ -4480,6 +4539,7 @@ hash,key
 0x391079D8,sf_mpsecurity_additions_musicrooftop
 0x3910FFE1,xs_prop_arena_adj_hloop_wl
 0x3911327E,v_44_g_gara_shad
+0x391B262E,m24_1_prop_m41_morguesign_01a
 0x391F87E2,prop_ar_arrow_3
 0x3924B266,prop_creosote_b_01
 0x392763CD,sm_attach_geom_lighting_wall_2
@@ -4492,6 +4552,7 @@ hash,key
 0x393268B6,bkr_prop_biker_bblock_huge_02
 0x3932B21F,prop_tail_gate_col
 0x3934CC8C,prop_ic_mguns_tr
+0x3935577A,m24_1_prop_m41_ghost_cop_01a
 0x3939E066,m23_2_prop_m32_cratelspd_02a
 0x393A7A8A,sf_int1_reception_desk
 0x393AC1EA,prop_headphones_01
@@ -4541,6 +4602,7 @@ hash,key
 0x39C110C4,v_44_1_master_mirr
 0x39C16530,tr_int4_misc_details
 0x39CA9466,cable3_root
+0x39CDAF23,m24_1_prop_m41_gate_r_01a
 0x39CEB0F7,v_ilev_fb_sl_door01
 0x39CEC491,v_res_m_palmplant1
 0x39D0EAEF,prop_roofvent_13a
@@ -4599,6 +4661,7 @@ hash,key
 0x3A633668,v_11_abbproddirt
 0x3A68E055,v_74_it1_off2_debr
 0x3A797319,sf_int1_blender
+0x3A82E467,m24_1_prop_m24_1_carrier_ord_03
 0x3A915583,xs_prop_arena_bollard_rising_01b_wl
 0x3A9245CD,prop_fncsec_01crnr
 0x3A92BE0F,h4_prop_battle_lights_fx_righ
@@ -4624,6 +4687,8 @@ hash,key
 0x3ACF9E68,ch_prop_table_casino_short_02a
 0x3AD1887D,v_med_p_coffeetable
 0x3AD2A96E,prop_rub_carpart_03
+0x3AD4C5AB,m24_1_prop_m24_1_carrier_yah_table_03
+0x3AD71B02,m24_1_prop_m41_stairsdetail_01a
 0x3AD97D39,prop_food_bs_burger2
 0x3ADC3BD8,xm3_int1_edge_decals_02
 0x3ADE34E7,apa_mp_h_din_chair_09
@@ -4674,6 +4739,7 @@ hash,key
 0x3B7A24A8,h4_prop_tree_blk_mgrv_lrg_01
 0x3B7BFBA5,reh_prop_reh_sp_sights_01a
 0x3B7DEDF3,tr_int1_mod_mezzanine_style4
+0x3B812383,m24_1_prop_m41_chandelier_01a
 0x3B829C8B,prop_bin_14b
 0x3B8979C3,xm_base_cia_data_desks
 0x3B8F9C68,xs_propintarena_structure_f_02e
@@ -4721,6 +4787,7 @@ hash,key
 0x3C04C081,stt_prop_track_bend_180d
 0x3C10E09D,imp_prop_welder_01a
 0x3C13EBE4,cs2_lod2_rc_slod3
+0x3C15820E,m24_1_prop_m24_1_carrier_crate_01b
 0x3C1B18DA,apa_mp_apa_yacht_option2_colb
 0x3C1B83BA,prop_roadcone02c
 0x3C21B172,xm_prop_gr_console_01
@@ -4743,6 +4810,7 @@ hash,key
 0x3C3D21F1,w_sr_marksmanriflemk2_camo2
 0x3C41D2B7,h4_prop_battle_lights_int_03_lr7
 0x3C450E31,prop_ar_arrow_1
+0x3C45577B,m24_1_prop_m24_1_carrier_defense_01
 0x3C4673A4,prop_amp_01
 0x3C479CBE,prop_welding_mask_01_s
 0x3C4BC4E2,prop_michael_door
@@ -4816,6 +4884,7 @@ hash,key
 0x3D3C9C28,bkr_prop_weed_01_small_01a
 0x3D3EC7AE,prop_ff_noodle_01
 0x3D418852,prop_cs_beer_bot_40oz
+0x3D4613F6,m24_1_prop_m41_container_01a
 0x3D469580,v_28_lab_poen_deta
 0x3D499105,h4_prop_h4_win_blind_03a
 0x3D49BA9E,xm3_int3_paint_splashes
@@ -4913,6 +4982,7 @@ hash,key
 0x3E591630,prop_air_cargo_01c
 0x3E598251,xs_propint2_set_scifi_09
 0x3E5D8D99,prop_satdish_l_02b
+0x3E5FCA03,m24_1_prop_m24_1_carrier_panel_2
 0x3E611D30,prop_fnclink_02gate2
 0x3E675324,xs_prop_arena_flipper_xl_01a
 0x3E682C2A,sf_int3_hall_ceiling_lightx001
@@ -5149,6 +5219,7 @@ hash,key
 0x417374F4,gr_prop_gr_sign_01c
 0x41740612,h4_prop_h4_safe_01a
 0x4174150F,tr_prop_tr_chest_01a
+0x417499ED,m24_1_prop_m24_1_carrier_cargo_05a
 0x4178E024,vw_prop_vw_card_case_01a
 0x417A6D43,gr_prop_gr_tunnel_gate
 0x417E64D7,ng_proc_beerbottle_01b
@@ -5162,6 +5233,7 @@ hash,key
 0x418C9D74,w_pi_combatpistol_mag1
 0x418D5BB4,xm_lab_chairarm_26
 0x418F055A,prop_vend_water_01
+0x419091E8,m24_1_prop_m24_1_carrier_gasbogey_01
 0x4195360F,vw_prop_vw_wallart_112a
 0x419B945B,prop_ex_random_pk
 0x41A690C4,vb_additions_toiletblock02_lod
@@ -5462,6 +5534,7 @@ hash,key
 0x454A8C99,prop_06_sig1_g
 0x454AAA03,v_28_lab2_deta
 0x454C4CA2,sf_int2_wallpaper_stairs_09
+0x4552807E,m24_1_prop_m41_snowfence_01a
 0x45532B2B,ex_prop_exec_guncase
 0x4555234C,prop_towercrane_02d
 0x455668C9,w_ar_assaultrifle_luxe_mag2
@@ -5561,6 +5634,7 @@ hash,key
 0x466C9E40,v_34_machine
 0x466D25BC,prop_garden_chimes_01
 0x466EB7B8,prop_fnclink_03g
+0x46706A36,m24_1_prop_m41_dg_pstr_graf_01a
 0x46712823,sum_mp_h_yacht_armchair_03
 0x46718D67,vw_prop_vw_arcade_02_screen
 0x467A2D91,v_16_lo_shower
@@ -5645,6 +5719,7 @@ hash,key
 0x4759FF64,prop_amb_handbag_01
 0x475C7F96,sm_prop_hanger_sm_01
 0x47603B91,prop_ld_cont_light_01
+0x4768F584,m24_1_prop_m41_orbital_term_01a
 0x476B879F,prop_ex_swap_wh_tr
 0x4770AF57,v_8_hall3ovlys
 0x47714FFC,lf_house_11d_
@@ -5689,6 +5764,7 @@ hash,key
 0x47F11D76,xs_combined_set_dyst_01_build_03
 0x47F293D2,v_med_p_lamp_on
 0x47F3EEE8,tr_int1_tool_draw_01e007
+0x47F3FB07,m24_1_prop_m24_1_carrier_radar_2
 0x47F5712D,tr_prop_tr_iaa_base_door_01a
 0x47F7E505,v_res_tre_table001
 0x47FDB2EB,h4_prop_battle_club_screen_02
@@ -5840,6 +5916,7 @@ hash,key
 0x49EE406E,apa_prop_hei_bankdoor_new
 0x49F193CD,v_11_abb_repipes
 0x49F86775,tr_int1_sideboard_style2_01
+0x49F8FEC2,m24_1_prop_m41_curb_45_01a
 0x49F90A9B,prop_weight_rack_02
 0x4A020985,v_res_tt_cereal01
 0x4A02A3BD,v_ind_cm_electricbox
@@ -5870,6 +5947,7 @@ hash,key
 0x4A4334B9,v_ind_coo_heed
 0x4A46E08E,prop_mb_ordnance_02
 0x4A49E444,hei_prop_heist_cash_pile
+0x4A4A01FC,m24_1_prop_m24_1_carrier_yah_glass_05
 0x4A529B42,imp_prop_impexp_mechbench
 0x4A54DB80,sf_ych_mod_glass13
 0x4A553931,w_mg_combatmgmk2_mag_fmj
@@ -5980,6 +6058,7 @@ hash,key
 0x4BF56E57,vw_prop_art_football_01a
 0x4BF8A4FD,prop_sea_rubprox_01
 0x4C002F69,vw_prop_vw_wallart_131a
+0x4C007B9F,m24_1_prop_m24_1_carrier_heist_carrierdoorl
 0x4C077074,ex_mapmarker_13_maze_bank_arena_1
 0x4C0C8B15,prop_champ_jer_01a
 0x4C0D000B,prop_beachf_01_cr
@@ -5992,6 +6071,7 @@ hash,key
 0x4C272C11,prop_bush_lrg_03
 0x4C28BD84,lts_p_para_bag_lts_s
 0x4C2A22F5,xs_prop_chopstick_wl
+0x4C2D7B35,m24_1_prop_m41_crate_spraycan_01a
 0x4C2EC80B,sum_yacht_bridge_glass09
 0x4C30B8CF,prop_fnclink_02gate3
 0x4C31E052,sf_weed_factory17
@@ -6053,6 +6133,7 @@ hash,key
 0x4CDF2586,xm_prop_lab_door01_lbth_l
 0x4CE0739D,v_ilev_roc_door3
 0x4CE514D8,prop_ic_repair_pk
+0x4CE771B2,m24_1_prop_m24_1_carrier_radar_1_l1
 0x4CEA3556,ex_office_swag_ivory2
 0x4CEAE56A,hei_prop_mini_sever_broken
 0x4CEBD53C,lts_prop_lts_ramp_03
@@ -6137,6 +6218,7 @@ hash,key
 0x4DE126A4,ch_prop_ch_cctv_cam_01a
 0x4DE6A409,prop_microwave_1
 0x4DE82456,prop_cs_lazlow_shirt_01b
+0x4DE9868F,m24_1_prop_m41_curb_45_01c
 0x4DEA5AF8,ch_prop_ch_vault_blue_09
 0x4DEB0C2D,cs1_lod3_terrain_slod3_02
 0x4DEEBD37,sf_prop_sf_can_01a
@@ -6257,6 +6339,7 @@ hash,key
 0x4F60BF65,apa_mp_apa_yacht_option2_cola
 0x4F60DBA5,v_74_it2_elev_deta
 0x4F639D0F,v_ret_tat2stuff_05
+0x4F654246,m24_1_prop_m41_secret_folder_01a
 0x4F659414,prop_h4_t_shape_01a
 0x4F6AB924,sf_int1_office_wpaper_7
 0x4F6D78D2,sf_int1_art2_stairs
@@ -6345,6 +6428,7 @@ hash,key
 0x50804F8B,m23_2_prop_m32_helipad_03a
 0x5080C719,p_gdoor1_s
 0x5080DCD4,xm3_prop_xm3_plan_board_01d
+0x5081F06A,m24_1_prop_m41_clipboard_01d
 0x50823B74,v_ind_cf_paltruck
 0x50824123,prop_table_06
 0x50862AAB,prop_beer_am
@@ -6429,6 +6513,7 @@ hash,key
 0x51709ADC,prop_log_01
 0x5172AB5A,prop_aircon_m_07
 0x517404E4,v_med_bl_fan_base
+0x517D6672,m24_1_prop_m41_pizzasign_01a
 0x517DD010,prop_skate_quartpipe_cr
 0x517E487F,v_ret_247_ketchup2
 0x517E8858,prop_woodpile_01a
@@ -6480,6 +6565,7 @@ hash,key
 0x51FC1D1B,sf_int2_int3_ceiling_recessed010
 0x51FE2C0B,xm3_prop_xm3_grain_trailer_01a
 0x51FF0C2F,v_11_sheephumperlight
+0x520251D8,m24_1_prop_m41_bounty_door_s2_r
 0x5206D422,prop_front_seat_07
 0x520A4D8B,w_sr_marksmanriflemk2_camo1
 0x520C3282,v_34_sm_kill
@@ -6512,6 +6598,7 @@ hash,key
 0x5268C054,prop_waterwheela
 0x526B276D,des_floor_start
 0x527445DF,v_74_cfemlight_rsref006
+0x52762EFF,m24_1_prop_m41_vehiclemine_01a
 0x52770405,vw_prop_casino_slot_07b_reels
 0x527785E4,vw_prop_vw_wallart_171a
 0x527818A3,sm_prop_smug_cont_01a
@@ -6519,6 +6606,7 @@ hash,key
 0x5278A41D,prop_lrggate_01_pst
 0x527A8501,sf_prop_socket_set_01a
 0x527FA703,prop_06_sig1_f
+0x5285CA63,m24_1_prop_m41_stairsdetail_01d
 0x5285CB79,apa_mp_h_acc_candles_04
 0x5286BF47,p_tumbler_cs2_s_trev
 0x5289257A,bike_test
@@ -6703,6 +6791,7 @@ hash,key
 0x54C60AAD,sum_mpapyacht_dk3_spots1
 0x54CD5BC9,sf_mp_apa_y3_l2a
 0x54CDA69D,prop_air_watertank2
+0x54D485E1,m24_1_prop_m24_1_carrier_crate_stack_01
 0x54D94493,vw_prop_vw_wallart_134a
 0x54DD1196,prop_fncsec_02a
 0x54DD120D,sf_int3_lp_studio_vol_02
@@ -6836,6 +6925,7 @@ hash,key
 0x563777C1,stt_prop_tyre_wall_015
 0x5637954B,v_61_bd1_mesh_door
 0x563A15D7,w_sr_w_sr_precisionrifle_reh_mag1
+0x563C1A34,m24_1_prop_m41_bomb_02a
 0x563D0053,sf_int3_contrl_room_ceiling04
 0x56424B3D,prop_food_cb_bag_02
 0x5642FBE0,xs_prop_arena_gaspole_02
@@ -6904,6 +6994,7 @@ hash,key
 0x570B2075,prop_ex_b_shark_pk
 0x570B8D1F,tr_int1_tool_draw_01e008
 0x570DE468,xs_propint2_building_06
+0x57156C93,w_me_rod_m41
 0x5721923C,sf_int1_recessedlights030
 0x5728FCC5,cs6_lod_slod3_02
 0x572B8EDA,v_ind_rc_shovel
@@ -7079,6 +7170,7 @@ hash,key
 0x5921431F,v_11_coolerrack001
 0x5927B4D2,v_16_bathstuff
 0x5929DBDB,gr_prop_gr_2stackcrate_01a
+0x592A192F,m24_1_prop_m24_1_carrier_liferafts
 0x592B8CD7,xm3_prop_xm3_paper_box_01a
 0x592C8B76,p_dock_rtg_ld_spdr
 0x592F0B89,ar_prop_ar_checkpoint_crn02
@@ -7215,6 +7307,7 @@ hash,key
 0x5ACB725A,v_74_it1_off2_deta
 0x5ACEA014,bkr_prop_meth_openbag_01a
 0x5ACF37C5,prop_bh1_44_door_01l
+0x5AD85554,m24_1_prop_m41_greenscreen_01c
 0x5AD98382,w_pi_pistolmk2_camo2
 0x5AE0A333,prop_boxpile_02b
 0x5AE1C23E,ex_prop_crate_highend_pharma_sc
@@ -7232,6 +7325,7 @@ hash,key
 0x5AF9080B,p_lev_sofa_s
 0x5AFD248C,prop_fnclink_02gate6_l
 0x5B023A1B,h4_prop_int_plants_03
+0x5B04F2E3,m24_1_prop_m41_stunt_track_dwlong
 0x5B0D8365,tr_int1_mod_spray02
 0x5B0D86F5,reh_int4_style_3_shell_dirt_decal2
 0x5B0F4EB3,sf_int1_dropdownlight044
@@ -7288,6 +7382,7 @@ hash,key
 0x5BB01723,h4_prop_tumbler_01
 0x5BB1EED1,v_ilev_fib_atrgl1s
 0x5BB42C0B,prop_billb_frame02b
+0x5BBA2230,m24_1_prop_m41_curb_45_01b
 0x5BBD60E4,prop_medstation_04
 0x5BBF8F23,stt_prop_tyre_wall_0r011
 0x5BC376A4,h4_rig_dj_04_lights_02_c
@@ -7301,6 +7396,7 @@ hash,key
 0x5BD7D4A8,v_44_1_daught_geoml
 0x5BD82443,v_res_sculpt_dec
 0x5BDA1BF9,prop_poolball_cue
+0x5BDCF8DF,m24_1_prop_m41_track_straight_xs
 0x5BDDFD00,v_ret_247_popbot4
 0x5BE1C038,sf_int2_steps_blend
 0x5BE341F3,v_16_lng_mesh_windows
@@ -7362,6 +7458,7 @@ hash,key
 0x5C9B374C,stt_prop_tyre_wall_0l08
 0x5C9B633B,sf_int1_lightswitch002
 0x5C9C42B4,prop_tea_trolly
+0x5C9D06BD,m24_1_prop_m41_disguisebox_01a
 0x5C9EB7DE,h4_prop_h4_coke_testtubes
 0x5C9F1C35,prop_tv_test
 0x5CA1B1FF,bkr_prop_moneypack_03a
@@ -7492,6 +7589,7 @@ hash,key
 0x5ECB544E,ss1_11_flats
 0x5ECC1D4C,vw_prop_vw_wallart_108a
 0x5ECF099A,sf_int1_3_temp_meeti05
+0x5ED52B12,m24_1_prop_m24_1_carrier_yah_glass_02
 0x5ED9733F,ar_prop_ig_jackal_cp_single_l2
 0x5EDBA5B1,tr_int4_blends
 0x5EDD1FDA,w_ex_grenadesmoke
@@ -7659,6 +7757,7 @@ hash,key
 0x60D58C13,v_24_llga_mesh_props
 0x60DABFAA,ch_prop_fingerprint_scanner_01c
 0x60DBC011,ch_prop_ch_vault_wall_damage
+0x60DDD6FF,m24_1_prop_m41_curb_5_01a
 0x60DE7366,prop_ic_non_hrocket_g
 0x60E2A57D,reh_prop_reh_hatch_01a
 0x60E5C899,sum_mp_h_yacht_barstool_01
@@ -7692,6 +7791,7 @@ hash,key
 0x614FCDEB,sf_prop_sf_art_car_02a
 0x615B4577,prop_clippers_01
 0x615FBEAA,v_31_lowerwater
+0x61642C9D,m24_1_prop_m41_server_01c
 0x616623C0,xm_int_lev_sub_doorr
 0x61704DD2,prop_coral_kelp_02
 0x61721925,prop_rub_litter_06
@@ -7757,6 +7857,7 @@ hash,key
 0x624E4227,sf_prop_sf_spa_doors_01a
 0x62502B01,lf_house_08d_
 0x625223D7,frag_plank_a
+0x6252941F,m24_1_prop_m41_clipboard_01e
 0x62575AD4,lr_prop_supermod_lframe
 0x625852A7,tr_prop_tr_sign_gf_ls_01a
 0x625BFD72,m23_2_prop_m32_arenawarcard_01a
@@ -7822,6 +7923,7 @@ hash,key
 0x6329A6D6,xm3_mpchristmas3_additions_trainb12
 0x632CE6E1,ex_mp_h_acc_plant_palm_01
 0x6332DEE8,des_door_start
+0x63356D17,m24_1_prop_m41_block_dmy_01c
 0x6338B6A6,v_24_bdrm_mesh_bookcase
 0x633F4B74,v_11_bleederstep
 0x633FC452,tr_prop_tr_iaa_door_01a
@@ -7829,6 +7931,7 @@ hash,key
 0x634E4438,h4_prop_h4_coke_spatula_04
 0x634EF858,xm3_prop_xm3_firedoow_01a
 0x6352A5B9,xm3_prop_xm3_lab_toulene
+0x63530611,m24_1_prop_m41_weed_bigbag_01a
 0x6353C3EC,v_34_cb_glass2
 0x63588FB6,prop_cs_duffel_01
 0x6359CF70,sr_prop_special_bblock_xl3
@@ -8052,6 +8155,7 @@ hash,key
 0x6602FB56,sum_prop_hangerdoor_01a
 0x6608DC0F,prop_conc_blocks01c
 0x6609A969,ng_proc_sodacup_02b
+0x660FABAF,m24_1_prop_m41_orbital_screen_01a
 0x661C9AA9,prop_casino_door_01r
 0x661D4C26,v_74_atrium_shell
 0x6623AA17,v_74_4_emerg_5
@@ -8165,6 +8269,7 @@ hash,key
 0x6789AE65,v_ilev_bl_shutter1
 0x6789F4AF,prop_pris_door_01_r
 0x678FC2DB,prop_wheelchair_01_s
+0x679B59BA,m24_1_prop_m41_consolemod_01a
 0x679B75CB,v_19_jetchangerail
 0x679F5BCE,apa_mp_h_stn_chairarm_01
 0x67A0F903,ar_prop_ig_cp_l2
@@ -8213,6 +8318,7 @@ hash,key
 0x6830B12C,m23_2_prop_m32_securityfence7_01a
 0x683475EE,prop_bin_14a
 0x68350DD8,sum_mpapyacht_glass04
+0x68371DB9,m24_1_prop_m24_1_carrier_bank_cctv_02
 0x683BCD93,prop_billboard_13
 0x683C7427,v_31a_tunswap_puds
 0x68409B04,sf_mpsecurity_additions_bb03
@@ -8286,6 +8392,8 @@ hash,key
 0x6911A7A9,w_ar_assaultriflemk2
 0x691353BB,p_para_bag_tr_s_01a
 0x6915B6D2,bkr_prop_printmachine_cutter
+0x6915F1CF,m24_1_prop_m41_greenscreen_01b
+0x691B15E9,m24_1_prop_m41_highway_paddle_7
 0x692148FB,v_11_stungun
 0x69227ED8,v_res_mknifeblock
 0x69263442,prop_ch1_07_door_02l
@@ -8316,6 +8424,7 @@ hash,key
 0x69751F5E,des_vaultdoor001_root001
 0x697C9014,prop_scafold_06a
 0x697D9DFC,ex_mp_h_acc_bottle_01
+0x697FB54F,m24_1_prop_m41_pill_bag_01a
 0x697FE94F,v_16_bathmirror
 0x6982E8CC,sm_floor_decal_3
 0x698459ED,v_ilev_fa_dinedoor
@@ -8379,6 +8488,7 @@ hash,key
 0x6A57B2BB,w_ar_assaultrifle_luxe_mag1
 0x6A5813D3,ch_prop_ch_vault_blue_07
 0x6A5DE110,prop_air_lights_01a
+0x6A5FDEA2,m24_1_prop_m24_1_carrier_crate_01a
 0x6A620FFD,vw_p_vw_cs_bandana_s
 0x6A62CEE0,prop_billb_frame03b
 0x6A64E7F3,bkr_prop_money_counter
@@ -8558,6 +8668,7 @@ hash,key
 0x6C9EF1DD,prop_ic_homing_rocket_g
 0x6CA06A5E,prop_sign_road_06m
 0x6CA1E917,stt_prop_stunt_target
+0x6CA1FE97,m24_1_prop_m41_stairsdetail_01b
 0x6CA22DDA,prop_flipchair_01
 0x6CA5E76F,prop_watertower04
 0x6CA66909,tr_int2_metal_wall
@@ -8660,6 +8771,7 @@ hash,key
 0x6E15D391,xs_prop_arena_wall_rising_02a_wl
 0x6E180BAC,prop_streetlight_08
 0x6E1B8A6F,tr_int2_large_duct_04
+0x6E1DB081,m24_1_prop_m41_fuse_box_01a
 0x6E1F2574,sf_int3_light_spotlight_106
 0x6E201D39,prop_amb_donut
 0x6E2555D7,prop_forsalejr4
@@ -8745,6 +8857,7 @@ hash,key
 0x6F0F2979,prop_joshua_tree_02c
 0x6F12F8B8,ex_prop_crate_narc_sc
 0x6F19B692,v_11_mincertrolley
+0x6F19C808,m24_1_prop_m41_server_01b
 0x6F1B3AD9,v_74_it2_cor2_debr
 0x6F1DC5C8,cs2_lod_1234_slod3
 0x6F204E3A,prop_sprink_golf_01
@@ -8826,6 +8939,7 @@ hash,key
 0x6FEC9060,apa_mp_h_acc_fruitbowl_02
 0x6FEE58B0,prop_drop_armscrate_01b
 0x6FF5C65C,prop_parasol_01_down
+0x6FF63530,m24_1_prop_m24_1_carrier_cc_metalcover_01
 0x6FFD3DAE,vw_des_vine_casino_doors_05
 0x6FFDE2CC,v_ilev_bl_doorel_l
 0x7005F0D7,v_73_jan_shell
@@ -8842,6 +8956,7 @@ hash,key
 0x702AF74C,ex_prop_tv_settop_remote
 0x702F82C3,xs_prop_arena_pipe_track_c_01a
 0x703437A4,m23_1_prop_m31_lever_box_01b
+0x703B1543,w_pi_stungun_m41_hi
 0x703C66B7,des_hospitaldoors_start_old
 0x703C6BE3,v_31a_jh_tunn_02x
 0x703EEFA2,vw_prop_vw_wallart_138a
@@ -8875,6 +8990,7 @@ hash,key
 0x70ABA70F,hei_prop_heist_cutscene_doorc_l
 0x70B02669,h4_prop_tree_palm_areca_sap_02
 0x70B0E25A,prop_storagetank_02b
+0x70B1AEA6,m24_1_prop_m24_1_carrier_panel_1
 0x70B7F3D2,xm3_mpchristmas3_additions_doc_lod
 0x70B89390,prop_ld_farm_rail01
 0x70B8B0CF,xs_prop_arena_gaspole_04
@@ -9186,6 +9302,7 @@ hash,key
 0x74219CCB,prop_rub_binbag_03b
 0x742270BD,prop_aircon_m_03
 0x7424B094,v_ret_gc_calc
+0x742566A5,m24_1_prop_m41_stnt_trk_dwsh5
 0x74290BB1,sf_mpsecurity_additions_bb03_lod
 0x742F8D31,sum_mpapyacht_dk3_bar1
 0x7439FE79,m23_2_prop_m32_t_bottle_02a
@@ -9232,6 +9349,7 @@ hash,key
 0x74B3D027,bkr_prop_meth_smashedtray_02
 0x74B47347,v_res_r_perfume
 0x74B5B4BB,ch_prop_casino_door_02a
+0x74BDF7BB,m24_1_prop_m41_elevatorpanel_01a
 0x74BFC5CE,prop_tree_cedar_03
 0x74C6B4CA,m23_2_prop_m32_heli_tarp_01a
 0x74CB5845,apa_mp_apa_icon_mk_ring
@@ -9275,6 +9393,7 @@ hash,key
 0x7550C070,prop_h4_wall_door_2x1_01a
 0x75543D21,v_73_jan_sec_desk
 0x75572F6D,prop_taco_02
+0x755A8718,m24_1_prop_m24_1_carrier_cargo_02a
 0x755EC29C,prop_bmu_02_ld_cab
 0x7560D4AE,tr_int2_rusty_pipes_10
 0x75657B09,xm3_int1_proxy_mover_005
@@ -9377,12 +9496,14 @@ hash,key
 0x76A0107A,prop_tool_broom2_l1
 0x76A2F481,sf_int3_diffuser_01
 0x76AB9E87,xm3_int3_ceiling_cagelight002
+0x76B0DAC9,m24_1_prop_m24_1_carrier_yah_glass_07
 0x76B3CC32,prop_hw1_03_gardoor_01
 0x76B67E02,v_res_r_figauth2
 0x76B77B76,p_stinger_piece_01
 0x76BE8848,xm_prop_x17_sub_lampa_small_blue
 0x76C358D2,cs_x_rublrgc
 0x76C3DA8A,v_31_walltext014
+0x76C5BAD6,m24_1_prop_m24_1_carrier_bank_cctv_01
 0x76CADFA4,v_19_strpprvrmcrt007
 0x76CD2740,v_61_lng_mesh_sidetable
 0x76D281DE,prop_const_fence01a
@@ -9399,6 +9520,7 @@ hash,key
 0x77041334,prop_tool_spanner02
 0x77085F6A,w_me_bat_xm3_02
 0x770C0368,stt_prop_sign_circuit_14
+0x770F3C58,m24_1_prop_m41_clutter_01a
 0x7719E8B1,xm_prop_facility_glass_01b
 0x771EF3D3,prop_air_lights_03a
 0x7720E50C,sf_int3_lp_all_rooms
@@ -9436,6 +9558,7 @@ hash,key
 0x777952FD,xs_prop_arena_spikes_02a_sf
 0x7780320E,apa_mp_h_floorlamp_c
 0x77824FA4,xs_arenalights_track_night
+0x7784484B,m24_1_prop_m41_clothpile_01a
 0x77852AD7,prop_cratepile_03a
 0x7786A8DA,v_serv_bs_razor
 0x77887996,h4_prop_battle_poster_skin_02
@@ -9491,6 +9614,7 @@ hash,key
 0x78151D24,prop_food_bs_tray_03
 0x78159F02,v_res_j_coffeetable
 0x7815B5E5,prop_lift_overlay_02
+0x78243F97,m24_1_prop_m41_cnt_pstr_01a
 0x7828E6A8,tr_prop_meth_openbag_02
 0x7828F1E9,prop_ic_arm
 0x782BE0BA,v_31_walltext007
@@ -9542,6 +9666,7 @@ hash,key
 0x78C37971,prop_dt1_20_mp_door_l
 0x78CDE107,prop_scafold_rail_01
 0x78D57657,v_11_cooheidrack001
+0x78DE9093,m24_1_prop_m41_freak_floor_col_prx
 0x78DF72D2,prop_crate_02a
 0x78E4ACB9,stt_prop_tyre_wall_0l020
 0x78EC3DF9,p_laptop_02_s
@@ -9579,6 +9704,7 @@ hash,key
 0x7955D3FC,prop_kino_light_03
 0x795D9780,prop_wine_rose
 0x79662245,reh_int4_style_2_blends
+0x796C5F5C,m24_1_prop_m41_bomb_01a
 0x796F0090,des_hospitaldoors_skin_root3
 0x79737CF6,prop_ld_dstpillar_03
 0x7974056D,des_trailerparka_02
@@ -9653,6 +9779,7 @@ hash,key
 0x7A5F8915,ch_prop_stunt_landing_zone_01a
 0x7A61902B,gr_prop_gr_drill_crate_01a
 0x7A6450F5,prop_mp_placement_maxd
+0x7A65D05B,m24_1_prop_m24_1_carrier_trailer_01
 0x7A687B8C,v_club_baham_bckt_chr
 0x7A6EFC20,des_tvsmash_start
 0x7A6F8117,prop_fragtest_cnst_06
@@ -9664,6 +9791,7 @@ hash,key
 0x7A86B288,prop_rock_4_cl_2
 0x7A897074,hei_prop_heist_magnet
 0x7A8A0B74,sf_prop_sf_mic_rec_01b
+0x7A8B0F75,m24_1_prop_m24_1_carrier_cargo_04a
 0x7A8C1A1E,des_tankercrash_01
 0x7A8D1FA9,prop_cs_gascutter_2
 0x7A8F8809,ex_mp_h_acc_dec_sculpt_02
@@ -9713,6 +9841,7 @@ hash,key
 0x7B5026A9,ch_prop_ch_sec_cabinet_02a
 0x7B53A032,prop_rub_pile_04
 0x7B56479B,lts_prop_tumbler_01_s2
+0x7B570F0F,m24_1_prop_m41_licence_frame_01a
 0x7B5938B4,v_serv_metro_stationfence2
 0x7B5AB510,stt_prop_track_block_01
 0x7B5BB845,bkr_prop_printmachine_6puller
@@ -9724,6 +9853,7 @@ hash,key
 0x7B7593CA,ch_prop_ch_trophy_gunner_01a
 0x7B7D6DE1,xs_prop_beer_bottle_wl
 0x7B80C9D8,prop_bar_cooler_01
+0x7B80E469,m24_1_prop_m24_1_carrier_yah_glass_04
 0x7B8DBE30,xm3_prop_xm3_lsd_appar_03a
 0x7B901D46,v_24_lga_mesh_blinds2
 0x7B9670F5,gr_prop_inttruck_empty_01dummy
@@ -9806,6 +9936,7 @@ hash,key
 0x7C95FA6E,prop_cs_cctv
 0x7C964BAF,prop_rub_carwreck_16
 0x7C9A4AAA,prop_mk_b_shark
+0x7C9E8D41,m24_1_prop_m41_door_whs_01a
 0x7C9F25F2,lf_house_13d_
 0x7C9F3E0C,prop_tyre_wall_01
 0x7CA24E6F,hei_mph_selectclothslrig_04
@@ -9887,6 +10018,7 @@ hash,key
 0x7D818385,reh_int4_style4_shell
 0x7D81F60B,vw_prop_vw_key_cabinet_01a
 0x7D883D72,v_74_it3_open_mnds
+0x7D8ACA8F,m24_1_prop_m41_clipboard_01b
 0x7D8B006B,v_31_newtun2ol
 0x7D8E17C5,hei_p_pre_heist_trash
 0x7D96D65F,prop_ind_conveyor_04
@@ -10054,6 +10186,7 @@ hash,key
 0x7FCB55C8,bkr_prop_fakeid_binbag_01
 0x7FCB9BDC,xm_base_cia_serversml_01
 0x7FCCC104,ar_prop_ar_tube_xs
+0x7FD029E0,m24_1_prop_m41_mask_01a
 0x7FD34040,prop_tool_shovel2
 0x7FD636B2,v_ret_ta_camera
 0x7FD7FCE4,sf_mpapyacht_pants4
@@ -10115,6 +10248,7 @@ hash,key
 0x8091F383,p_yoga_mat_03_s
 0x809225F9,prop_inout_tray_01
 0x80950659,v_res_fa_stones01
+0x809DE23F,m24_1_prop_m41_painting_01b
 0x809E20D8,prop_luggage_09a
 0x80ACB03F,v_24_lgb_mesh_sideprops
 0x80B6D434,vw_prop_casino_art_vase_08a
@@ -10281,6 +10415,7 @@ hash,key
 0x82DDBEBA,xs_prop_x18_tool_draw_01e
 0x82DE21F2,tr_int2_bulks
 0x82DE90DC,h4_prop_h4_box_ammo_01b
+0x82DFF5DF,m24_1_prop_m24_1_carrier_lightset_1
 0x82E22E6E,vfx_it2_33
 0x82EBBFA2,v_corp_officedesk2
 0x82EC8D4C,prop_makeup_brush
@@ -10413,6 +10548,7 @@ hash,key
 0x848B8ABA,prop_flare_01
 0x848F2F3B,v_ind_rc_rubbish2
 0x8490C144,imp_mapmarker_lsia_01
+0x8492DE81,m24_1_prop_m41_farm_door_01a
 0x849D4AEA,des_shipsink_02
 0x84A10D20,prop_mk_arrow_flat
 0x84A4A2D1,xs_prop_arena_pressure_plate_01a
@@ -10481,6 +10617,7 @@ hash,key
 0x85732D84,hei_heist_acc_vase_03
 0x8576475B,prop_flag_ls_s
 0x85766B70,v_ret_ml_partframe1
+0x85767E13,m24_1_prop_m41_cnt_pstr_graf_01a
 0x8576878D,v_31_cablemesh5785286_hvstd
 0x85789DC7,v_74_ofc_debrizz005
 0x85796D87,tr_prop_meth_tray_01a
@@ -10675,6 +10812,7 @@ hash,key
 0x88026497,prop_starfish_01
 0x880416BC,hei_heist_lit_lamptable_04
 0x88046864,v_61_bd2_mesh_drawers_mess
+0x88081812,m24_1_prop_m41_gate_open_01a
 0x880A6EBF,h4_prop_bush_mang_lg_aa
 0x880EF5E8,prop_glf_roller
 0x8810DF5E,stt_prop_ramp_jump_l
@@ -10784,6 +10922,7 @@ hash,key
 0x895FEC36,v_24_bdr_mesh_delta
 0x89601990,ba_prop_battle_policet_seats
 0x896138E2,prop_tv_cabinet_03
+0x8964AD28,m24_1_prop_m24_1_carrier_cargo_04b
 0x89669662,ba_prop_door_club_entrance
 0x8967A3BE,v_club_roc_jacket1
 0x89696AD0,stt_prop_track_bend_m
@@ -10979,6 +11118,7 @@ hash,key
 0x8BCB23F4,vw_prop_vw_tv_rt_01a
 0x8BCC8709,v_61_lng_over_decal_scuz
 0x8BD2E499,sf_mpapyacht_t_pa_smll_base_h008
+0x8BD552FF,m24_1_prop_m24_1_carrier_cargo_05b_s
 0x8BD5C4F7,prop_bumper_01
 0x8BD7D5EA,prop_dock_crane_02
 0x8BD89D54,tr_prop_tr_camhedz_01a_screen_p2
@@ -11011,6 +11151,8 @@ hash,key
 0x8C790463,bkr_cash_scatter_02
 0x8C79A2A3,vw_prop_casino_art_mod_03a_a
 0x8C7C8A8F,sum_mpapyacht_dk3_bar1detail
+0x8C7FA81E,m24_1_prop_m41_bounty_gate_01a
+0x8C8188FC,m24_1_prop_m41_chainport_01a
 0x8C820201,prop_cs_fuel_nozle
 0x8C842A43,ba_prop_battle_mast_01a
 0x8C88CAF5,sf_int3_fabric_decal_01
@@ -11026,6 +11168,7 @@ hash,key
 0x8CA1CEC5,prop_mk_transform_bike
 0x8CA286DE,xs_propint2_stand_thin_03
 0x8CA6EAD9,sf_prop_sf_swift2_01a
+0x8CA8718B,m24_1_prop_m24_1_carrier_cargo_05a_s
 0x8CABC97F,prop_gate_bridge_ld
 0x8CB22929,prop_mem_reef_03
 0x8CB2629E,w_pi_sns_pistolmk2_camo_ind1
@@ -11196,6 +11339,7 @@ hash,key
 0x8EB77C76,tr_int1_tool_draw_01e003
 0x8EBD1340,w_mg_combatmgmk2_camo4
 0x8EC178C8,v_31_tun07_olay
+0x8EC46D02,m24_1_prop_m41_clipboard_01c
 0x8EC50D36,gr_prop_inttruck_light_co_g_bl
 0x8ECC910A,w_pi_pistol_mag1
 0x8ECE318C,xs_prop_ar_planter_s_90a_sf
@@ -11224,6 +11368,7 @@ hash,key
 0x8F1AC51F,v_34_strips003
 0x8F1B1C6D,v_corp_boxpaprfd
 0x8F1B34FB,prop_pallettruck_01
+0x8F1E1F06,m24_1_prop_m41_cokebag_01a
 0x8F2C2FC8,w_pi_sns_pistolmk2_camo1
 0x8F2D17AA,p_airdancer_01_s
 0x8F2D6ED9,w_lr_rpg_m31
@@ -11270,6 +11415,7 @@ hash,key
 0x8FCAC70D,sf_prop_sf_amp_head_01a
 0x8FD082E7,sm_prop_inttruck_door_static2
 0x8FD0E6B3,prop_barebulb_01
+0x8FD19D88,m24_1_prop_m41_vase_01a
 0x8FD48CB3,prop_byard_sleeper01
 0x8FD59D8D,v_ilev_door_orange
 0x8FD5E8AF,xm3_prop_xm3_rack_vial_01b
@@ -11409,6 +11555,7 @@ hash,key
 0x919725AE,w_pi_pistolmk2_camo_sg
 0x91985DA7,id1_lod_water_slod3
 0x919BF606,sf_int3_ceil_panels
+0x919FBDEE,m24_1_prop_m41_leaf_01a
 0x91A432E2,prop_fncglass_01a
 0x91A9BAE3,xm_prop_x17_bag_01b
 0x91AB077B,xm3_prop_xm3_zip_ties_01a
@@ -11460,6 +11607,7 @@ hash,key
 0x922C7B08,ex_prop_safedoor_office3a_l
 0x922D3516,ba_prop_battle_lights_01_bright
 0x922F1950,hei_prop_bank_cctv_02
+0x9230F60D,m24_1_prop_m41_statue_02a
 0x923D01AF,prop_rub_couch01
 0x924DF9A5,gr_prop_gr_target_05b
 0x924E49C8,prop_tool_spanner03
@@ -11524,6 +11672,7 @@ hash,key
 0x931DD68A,prop_t_shirt_row_05r
 0x931FD7BA,v_res_fh_sidebrdlngb
 0x93206B10,prop_beach_lotion_03
+0x9322DD81,m24_1_prop_m41_exerciseball_01a
 0x9323A317,v_res_tt_can03
 0x93264758,m23_2_prop_m32_gap_filler_01a
 0x93282CE8,prop_poolball_14
@@ -11596,6 +11745,7 @@ hash,key
 0x940CDD6F,m23_2_prop_m32_bucket_mop_01a
 0x940E061A,h4_mp_h_yacht_armchair_04
 0x94110818,prop_barier_conc_04a
+0x94110925,m24_1_prop_m41_painting_01c
 0x94162611,v_16_high_bed_over_dirt
 0x9417F774,apa_mp_h_str_sideboardl_06
 0x9419253C,prop_rub_wreckage_3
@@ -11665,6 +11815,7 @@ hash,key
 0x950434D6,prop_plant_group_06b
 0x950911C3,vw_prop_vw_wallart_50a
 0x950A7BE3,v_med_lab_filtera
+0x951152F5,m24_1_prop_m41_notebook_01a
 0x951654DB,prop_hotel_trolley
 0x9516EA7A,w_sg_assaultshotgun_mag1
 0x9521F228,v_16_knt_f
@@ -11683,6 +11834,7 @@ hash,key
 0x955039BE,h4_prop_h4_bag_hook_01a
 0x95555035,v_ilev_cd_secdoor
 0x95583589,prop_dock_moor_04
+0x95588932,m24_1_prop_m41_stnt_trk_sh5
 0x955B4388,v_44_fakewindow2
 0x955E257B,prop_yacht_table_02
 0x955F607F,prop_paint_spray01b
@@ -11772,6 +11924,7 @@ hash,key
 0x96A6B33B,sum_prop_ac_wall_sign_02
 0x96A9D74D,prop_fnclink_02c
 0x96AB42BB,xs3_prop_int_xmas_tree_01
+0x96AE1AC3,m24_1_prop_m24_1_carrier_yah_glass_09
 0x96AE6A7F,v_ret_ml_liqshelfe
 0x96B18390,prop_bar_beans
 0x96B52A81,apa_mp_h_lit_lamptable_04
@@ -11785,6 +11938,7 @@ hash,key
 0x96D59D8B,prop_rock_1_i
 0x96D7165F,tr_int1_mod_decals_01
 0x96DE904F,prop_food_cb_soda_02
+0x96E03BDE,m24_1_prop_m41_blinds_closed_01a
 0x96E33685,v_19_ducts
 0x96E6BAB0,h4_rig_dj_04_lights_04_b
 0x96E9E72A,v_serv_ct_light
@@ -11814,6 +11968,7 @@ hash,key
 0x97431FCE,tr_prop_tr_dd_necklace_01a
 0x9744F853,xs_propint2_platform_01
 0x9748C642,prop_bottle_macbeth
+0x974AB04C,m24_1_prop_m41_blinds_01a
 0x97515E43,sum_yacht_bridge_glass03
 0x9753F59E,sf_int2_elevators001
 0x97550C9A,xs_prop_wastel_06_lightset
@@ -11832,6 +11987,7 @@ hash,key
 0x977ADD78,prop_sign_road_05za
 0x977AF7F4,sum_mpapyacht_ws
 0x977E1062,vw_prop_casino_art_vase_05a
+0x97857E50,m24_1_prop_m41_nameplate_01a
 0x978A3F50,sf_prop_sf_drum_kit_01a
 0x978DABE5,prop_rub_frklft
 0x978E7834,xm_prop_x17_tv_ceiling_scn_01
@@ -11884,6 +12040,7 @@ hash,key
 0x980BA9A1,h4_prop_casino_3cardpoker_01e
 0x980D5A05,ba_prop_battle_crate_m_bones
 0x9817FF83,prop_ld_bankdoors_01
+0x981EDE06,m24_1_prop_m41_curb_15_01e
 0x981FFB26,sf_int2_columns002
 0x982282F5,apa_mp_h_str_sideboardl_13
 0x982A10E3,vw_prop_vw_wallart_94a
@@ -11922,6 +12079,7 @@ hash,key
 0x98A41590,prop_ld_wallet_02
 0x98A45CF6,prop_gravestones_04a
 0x98A5D514,prop_ic_jump_wh
+0x98AF4361,m24_1_prop_m41_sofa_01a
 0x98B1C712,prop_bush_med_03
 0x98B5E3D4,apa_mp_apa_yacht_jacuzzi_ripple1
 0x98B6C571,hei_prop_heist_hook_01
@@ -11957,6 +12115,7 @@ hash,key
 0x9906BC0B,sf_mpapyacht_entry_shell
 0x990898AA,vw_prop_casino_art_bowling_01a
 0x9909424C,xm3_int1_proxy_mover_003
+0x990AA1AC,m24_1_prop_m41_bdgr_pstr_01a
 0x99100663,port_xr_lifep
 0x9910206D,prop_boxpile_07a
 0x99106B2F,sf_mpapyacht_bed1_shell
@@ -12053,6 +12212,7 @@ hash,key
 0x9A42A7FB,v_ret_gc_ammo4
 0x9A4BE536,prop_plate_stand_01
 0x9A4EFAE5,xs_combined2_dyst_07_cabin
+0x9A508D96,m24_1_prop_m41_dg_pstr_01a
 0x9A515D3F,prop_bush_lrg_01e_cr2
 0x9A568D7D,v_19_vanilla_sign_neon
 0x9A5AF8B7,sf_int2_wallpaper02_06
@@ -12078,6 +12238,7 @@ hash,key
 0x9A91F5AC,tr_prop_tr_container_01g
 0x9A9885E8,h4_prop_h4_painting_01g
 0x9A9DF7E8,v_med_storage
+0x9AA75C0B,m24_1_prop_m41_film_cam_01a
 0x9AA7858D,dt_additions_signfix_lod
 0x9AA7D326,prop_train_ticket_02
 0x9AAB090D,h4_mp_h_yacht_bed_01
@@ -12148,6 +12309,7 @@ hash,key
 0x9B7CF531,prop_consign_01b
 0x9B7D0EB4,prop_mp_num_7
 0x9B7FB3E8,tr_int1_mod_cctv_table
+0x9B801665,m24_1_prop_m24_1_carrier_heist_carrierdoorr
 0x9B81764F,v_ilev_mm_doorm_r
 0x9B86241D,v_44_kitc_chand
 0x9B862E76,prop_byard_rowboat3
@@ -12287,6 +12449,7 @@ hash,key
 0x9D42A76E,v_serv_bs_hairdryer
 0x9D440B24,sr_prop_stunt_tube_xs_01a
 0x9D447659,v_ilev_fib_atrgl2s
+0x9D466134,m24_1_prop_m41_block_dmy_01a
 0x9D47AFF9,prop_bush_med_03_cr2
 0x9D498796,v_74_it3_shell
 0x9D49C80B,apa_mp_h_acc_jar_04
@@ -12364,6 +12527,7 @@ hash,key
 0x9E70F047,sf_mp_apa_y3_l1a
 0x9E7264B5,prop_plant_palm_01c
 0x9E738CCC,gr_prop_gr_target_04b
+0x9E73F35A,m24_1_prop_m41_floorlamp_01a
 0x9E775148,v_44_kitche_cables
 0x9E7D4A30,v_16_studapart00
 0x9E7E474E,w_pi_heavypistol_luxe_mag1
@@ -12589,6 +12753,7 @@ hash,key
 0xA12B3433,v_ilev_gb_vaubar
 0xA12E6204,v_ilev_fib_atrglswap
 0xA12ECDEA,sm_hanger_bedroom_tradcabon
+0xA132BDBF,m24_1_prop_m41_hull_gap_01a
 0xA138EC7C,prop_gun_case_02
 0xA138F05B,xm_int_prop_tinsel_truck_command
 0xA13B6F3E,reh_prop_reh_door_slide_r_01a
@@ -12743,6 +12908,7 @@ hash,key
 0xA325F1CF,stt_prop_track_cross_bar
 0xA3263214,v_res_tt_bed
 0xA3289E5F,tr_prop_tr_bag_thermite_01a
+0xA32A79F9,m24_1_prop_m41_life_pstr_graf_01a
 0xA32B067B,prop_satdish_3_c
 0xA3311CD9,ch2_lod4_s3c
 0xA3318E41,xm3_des_xm3_velum2_crash_08
@@ -12809,6 +12975,7 @@ hash,key
 0xA410B5C9,w_at_scope_small_02_luxe_l1
 0xA41DC24E,v_34_shrinkwrap2
 0xA41E40AA,prop_wallbrick_01
+0xA41F8DDF,m24_1_prop_m41_dolly_01a
 0xA420E7B0,ch_prop_emp_01b
 0xA4223598,v_34_cable2
 0xA429BF11,v_res_sketchpad
@@ -12966,6 +13133,7 @@ hash,key
 0xA643AFCD,v_ind_cs_toolbox1
 0xA6488382,prop_cs_cash_note_01
 0xA64C5B93,m23_2_prop_m32_tent_01a
+0xA64CF879,m24_1_prop_m24_1_carrier_yah_lounger
 0xA64D669B,reh_int3_cablemesh215918_thvy
 0xA657BFAA,prop_champ_jer_01b
 0xA65947F5,v_73_fib_5_glow_023
@@ -12984,6 +13152,7 @@ hash,key
 0xA692BAC0,prop_roofvent_09a
 0xA692F094,tr_prop_tr_camhedz_01a
 0xA69A90CF,p_ld_bs_bag_01
+0xA69A9A7B,m24_1_prop_m24_1_carrier_panel_4
 0xA69E8363,prop_mk_mp_ring_01b
 0xA6A4B65F,prop_weeds_nxg06
 0xA6A52920,v_ret_windowair
@@ -12998,6 +13167,7 @@ hash,key
 0xA6B73A0A,w_pi_pistolmk2_camo_ind1
 0xA6B881B7,v_med_latexgloveboxred
 0xA6B97967,prop_bodyarmour_04
+0xA6BC008D,m24_1_prop_m24_1_carrier_crate_01b_s
 0xA6C1B3E6,h4_prop_sign_palace
 0xA6C81227,sum_prop_ac_barge_col_01
 0xA6C85DBF,w_ar_specialcarbinemk2_camo1
@@ -13037,6 +13207,7 @@ hash,key
 0xA73B755A,vfx_wall_wave_01
 0xA73DFEF6,prop_fncres_02_gate1
 0xA743583C,v_8_hall4ovrly
+0xA747AC22,m24_1_prop_m41_rm_crate_l_01a
 0xA74ED048,sf_int3_screen_weed
 0xA756944E,prop_life_ring_01
 0xA7621420,ind_prop_dlc_flag_01
@@ -13050,6 +13221,7 @@ hash,key
 0xA76FCCF7,sum_mpapyacht_bridge_shell
 0xA76FE14D,prop_toolchest_03_l2
 0xA7707901,vw_prop_cas_card_spd_02
+0xA7767CB5,m24_1_prop_m41_curb_15_01d
 0xA77C9A44,prop_vault_shutter
 0xA77D3AFC,prop_blox_spray
 0xA7811109,des_finale_vault_root003
@@ -13088,6 +13260,7 @@ hash,key
 0xA7E570CE,prop_tshirt_box_02
 0xA7EE2F33,v_16_mpmidapart03
 0xA7F15510,v_34_warevents
+0xA80651C7,m24_1_prop_m41_bunker_col_prx
 0xA807A5CB,v_med_hospseating2
 0xA808EF5F,sf_prop_sf_scr_m_lrg_01a
 0xA815AC38,prop_speaker_03
@@ -13125,6 +13298,7 @@ hash,key
 0xA875EC26,v_res_fh_speaker
 0xA87654F7,apa_mp_h_acc_rugwooll_03
 0xA879BC02,prop_abat_slide
+0xA87ABE5C,m24_1_prop_m24_1_carrier_yah_glass_06
 0xA87B1C0D,v_ret_windowutil
 0xA87D8592,sf_prop_sf_mic_rec_02a
 0xA87E8413,v_club_brablk
@@ -13347,6 +13521,7 @@ hash,key
 0xAB4E8510,sum_mp_h_yacht_strip_chair_01
 0xAB4FEED6,sf_int1_int2_elevator_details_001
 0xAB57A27D,prop_cctv_cont_04
+0xAB57D21D,m24_1_prop_m24_1_carrier_light_01
 0xAB5CC8CB,v_19_strpprvrmcrt004
 0xAB5DA884,reh_int3_cablemesh215918_thvy008
 0xAB64A3A2,sf_int1_art2_apt1
@@ -13390,6 +13565,7 @@ hash,key
 0xABC0481F,ch_prop_ch_crate_01a
 0xABC1C6BA,xs_propint3_waste_05_goals
 0xABC2C38A,p_cs_panties_03_s
+0xABC6C235,m24_1_prop_m41_fence_01b
 0xABC73D41,prop_rail_sign04
 0xABCC83E8,xs_propintarena_structure_s_05ald
 0xABCF4AAA,apa_mp_apa_yacht_o1_rail_a
@@ -13404,6 +13580,7 @@ hash,key
 0xABEF0DC5,p_para_broken1_s
 0xABFEE32D,v_ret_gc_mugdisplay
 0xAC028888,ba_prop_club_emis_rig_10_shad
+0xAC0605D8,m24_1_prop_m41_curb_15_01b
 0xAC14F021,tr_int1_v_res_fh_coftableb
 0xAC174334,prop_jewel_03a
 0xAC188E70,v_74_vfx_it3_3b_02
@@ -13636,6 +13813,7 @@ hash,key
 0xAEFCEB8C,xs_combined_set_dyst_01_build_07
 0xAF007050,hei_p_pre_heist_biker
 0xAF045D86,tr_int1_mod_ceillinglights_006
+0xAF0675D8,m24_1_prop_m41_hull_door_l
 0xAF086789,sum_ych_mod_glass2
 0xAF08F987,xs_prop_arena_adj_hloop_sf
 0xAF0ABBF0,prop_cs_sink_filler_03
@@ -13675,6 +13853,7 @@ hash,key
 0xAF852709,v_med_p_figfish
 0xAF86C61B,ng_proc_inhaler01a
 0xAF8B778A,m23_2_prop_m32_sub_doorl_open_a
+0xAF8B9A66,m24_1_prop_m41_cadavertray_01a
 0xAF8CB193,xm3_int3_carwareware_paint_booth
 0xAF8E6723,prop_crate_08a
 0xAF98A8C2,apa_mp_h_lit_floorlamp_05
@@ -13686,6 +13865,7 @@ hash,key
 0xAFA09287,prop_gate_frame_06
 0xAFA502A4,v_16_studio_loshell
 0xAFAA214F,ba_prop_battle_lights_ceiling_l_g
+0xAFAE9D33,m24_1_prop_m41_weed_block_01a
 0xAFAEDD0C,xs_prop_lplate_wall_01c_wl
 0xAFB1CDB8,xm3_prop_xm3_box_pharma_01a
 0xAFB678FE,bkr_prop_biker_safedoor_01a
@@ -13731,6 +13911,7 @@ hash,key
 0xB047B47B,v_31a_highvizjackets001
 0xB04A4DE7,v_christmas_tree
 0xB04FD1B8,xm3_prop_xm3_bag_grinder_01a
+0xB050BC05,m24_1_prop_m41_track_fork_bar
 0xB0569C0B,sr_prop_spec_tube_l_04a
 0xB057439B,sum_mp_h_acc_candles_05
 0xB0590AA6,w_sb_minismg_mag1
@@ -13742,6 +13923,7 @@ hash,key
 0xB07DA70C,w_at_pi_supp_2
 0xB0833E3A,prop_elecbox_10_cr
 0xB087E769,des_finale_tunnel_root003
+0xB0894988,m24_1_prop_m41_lift_01a
 0xB08A1C4C,prop_sign_road_09d
 0xB08A1F69,xm3_int1_notes_01
 0xB08A6886,sf_yacht_bridge_glass11
@@ -13790,6 +13972,7 @@ hash,key
 0xB0F63288,prop_gold_trolly
 0xB0F81A16,prop_cs_mopbucket_01
 0xB0FA13B7,prop_fnclog_02a
+0xB100138D,m24_1_prop_m41_shutterdoor_01a
 0xB10406B1,w_mg_combatmgmk2
 0xB1048AAB,ba_prop_battle_emis_rig_03
 0xB105B8E3,v_11_abbleeddrains
@@ -13927,6 +14110,7 @@ hash,key
 0xB278E4C8,xm_prop_x17_laptop_agent14_01
 0xB27F2CBF,vw_prop_casino_art_grenade_01c
 0xB2821003,v_ret_fh_shelf_01
+0xB282CFC0,m24_1_prop_m41_curb_45_01e
 0xB288CFC7,sum_ych_mod_glass13
 0xB28BB04B,prop_pot_plant_02d
 0xB297281B,p_gdoor1colobject_s
@@ -13974,6 +14158,7 @@ hash,key
 0xB32C0DC7,prop_telegwall_03a
 0xB32D60D0,m23_2_prop_m32_lspd_door_01a
 0xB32F6A14,xm3_int1_prop_wall_light003
+0xB3320BBA,m24_1_prop_m41_stairsdetail_01k
 0xB332242B,w_ar_bullpuprifle
 0xB332D097,prop_wrecked_buzzard
 0xB336E93F,w_at_pi_snsmk2_flsh_1
@@ -14171,6 +14356,7 @@ hash,key
 0xB59A3B13,stt_prop_flagpole_1d
 0xB59F314C,ex_mp_h_stn_chairarm_24
 0xB5A354EE,h4_prop_h4_sub_kos_extra
+0xB5AA9204,m24_1_prop_m41_block_dmy_01g
 0xB5B09BE8,vfx_it1_10
 0xB5B0B1F1,v_res_rubberplant
 0xB5B476A2,v_31_dangle_light
@@ -14303,9 +14489,11 @@ hash,key
 0xB7352B3B,sf_mpapyacht_ed1_blinds001
 0xB73726CD,v_res_cabinet
 0xB738EC67,prop_trev_sec_id
+0xB7404F83,m24_1_prop_m41_painting_01a
 0xB741477B,v_74_ceilin2
 0xB7458049,prop_a4_sheet_02
 0xB746E5D6,h4_prop_h4_coke_mortalpestle
+0xB74813E2,m24_1_prop_m41_stairsdetail_01j
 0xB749D4DC,ba_rig_dj_04_lights_04_a_scr
 0xB74C7FC3,v_73_jan_cm3_over
 0xB75576C8,lf_house_18d_
@@ -14317,6 +14505,7 @@ hash,key
 0xB7631B41,prop_pile_dirt_03
 0xB7668240,bkr_prop_weed_bag_pile_01a
 0xB76C1605,prop_gravestones_08a
+0xB76E041E,m24_1_prop_m41_curb_5_01b
 0xB77124FF,vw_prop_vw_wallart_17a
 0xB773C2E1,prop_amb_40oz_03
 0xB7759448,prop_cctv_01_sm
@@ -14324,6 +14513,7 @@ hash,key
 0xB77D0D5F,m23_2_prop_m32_ice_block_05b
 0xB782DC7F,bkr_prop_fakeid_singlepassport
 0xB7842641,prop_mk_num_2
+0xB786F71F,m24_1_prop_m41_militarytech_01a
 0xB78A2C75,prop_bench_01c
 0xB78AD509,sum_mp_apa_yacht_jacuzzi_ripple1
 0xB78B9A79,cs_x_rubmeda
@@ -14529,6 +14719,7 @@ hash,key
 0xBA09B7F7,p_mrk_harness_s
 0xBA0C538B,ar_prop_gate_cp_90d_01c_l2
 0xBA0FE989,v_serv_tvrack
+0xBA1016DB,m24_1_prop_m41_gate_01a
 0xBA109EE7,p_clb_officechair_s
 0xBA14845E,v_corp_srvrtwrsfd
 0xBA1EB02D,sf_mpapyacht_bar1_rof2
@@ -14536,6 +14727,7 @@ hash,key
 0xBA2851E4,hei_prop_heist_cash_bag_01
 0xBA2AC8A4,v_61_kit_over_dec_cruma
 0xBA2B576F,port_xr_cont_03
+0xBA2DC04A,w_pi_stungun_m41
 0xBA305CD4,xs_prop_wastel_05_lightset
 0xBA3491F6,cs3_lod_1_slod3
 0xBA3842FF,ar_prop_ar_neon_gate8x_01a
@@ -14598,6 +14790,7 @@ hash,key
 0xBAC5252E,sum_yacht_bridge_glass01
 0xBAC53593,sf_int1_seating003
 0xBACB21DB,ar_prop_ar_tube_2x_gap_02
+0xBADF8E29,m24_1_prop_m41_loungertable_01a
 0xBAE4A210,prop_cctv_cam_02a
 0xBAEA49D0,prop_laptop_02_closed
 0xBAEC2358,v_res_tt_lighter
@@ -14612,6 +14805,7 @@ hash,key
 0xBAFDA1A3,vw_des_vine_casino_doors_end
 0xBAFFEDEF,prop_ld_jeans_01
 0xBB040100,reh_int3_decals2
+0xBB09E12D,m24_1_prop_m24_1_carrier_radar_1
 0xBB16CFA2,h4_prop_office_painting_01a
 0xBB177131,v_61_shell_doorframes
 0xBB182EDE,v_19_strpmncled
@@ -14656,6 +14850,7 @@ hash,key
 0xBB710CD9,v_res_fa_idol02
 0xBB7493C5,xm_prop_x17_book_bogdan
 0xBB754D6A,v_serv_tc_bin3_
+0xBB77D76A,m24_1_prop_m41_moc_floor_col_prx
 0xBB7942FF,v_ind_ss_threadsc
 0xBB7A39E8,ex_prop_safedoor_office1b_r
 0xBB7DA2FA,gr_prop_inttruck_empty_02dummy
@@ -14892,6 +15087,7 @@ hash,key
 0xBE659048,v_74_hobar_debris006
 0xBE66C593,w_sg_pumpshotgunmk2
 0xBE6D781D,v_73_fib_5_glow_020
+0xBE6E1ACF,m24_1_prop_m41_rm_crate_s_01a
 0xBE6E2FCE,proair_hoc_puck
 0xBE7C85D8,prop_mp_max_out_lrg
 0xBE7FCC0F,stt_prop_track_fork
@@ -15032,6 +15228,7 @@ hash,key
 0xC04B3C88,ar_prop_ar_tube_4x_xxs
 0xC04ED1FD,xm_prop_x17_mine_02a
 0xC0502351,v_8_framehl5
+0xC0506B5B,m24_1_prop_m41_curb_45_01d
 0xC0596B68,sum_ych_mod_glass12
 0xC05AE301,sf_int1_recessed009
 0xC06B92E5,tr_int1_sideboard_style2_004
@@ -15102,6 +15299,7 @@ hash,key
 0xC12B6818,csx_coastboulder_04_
 0xC12CA895,prop_forsale_sign_fs
 0xC12E1306,apa_prop_yacht_glass_09
+0xC1324EC3,m24_1_prop_m41_tomb_01a
 0xC133E6F5,ng_proc_sodacan_03b
 0xC135E006,prop_rock_4_d
 0xC13A16F0,prop_ld_balcfnc_02a
@@ -15134,6 +15332,7 @@ hash,key
 0xC18C912E,prop_ind_pipe_01
 0xC18EF1EC,h4_prop_h4_pouch_01a
 0xC1919068,cloudhat_stormy01_e
+0xC192397C,m24_1_prop_m41_tracklines_01a
 0xC196217F,imp_prop_impexp_front_bumper_01a
 0xC1967169,vw_prop_vw_wallart_56a
 0xC1969C85,v_8_studycloth
@@ -15185,11 +15384,13 @@ hash,key
 0xC24DDCD1,v_med_crutch01
 0xC24E5527,h4_prop_h4_painting_01c
 0xC24EF10E,tr_int2_donuts006
+0xC24F2029,m24_1_prop_m24_1_carrier_phone_02
 0xC2523C70,prop_flag_france
 0xC25751DC,xm3_prop_xm3_whshelf_02a
 0xC25DE433,prop_vend_snak_01_tu
 0xC25E22B5,h4_des_hs4_gate_exp_03
 0xC2612507,prop_ex_random_p_tr
+0xC263EF6F,m24_1_prop_m41_fence_01c
 0xC2682721,prop_steps_big_01
 0xC26DA56D,v_ilev_gtdoor
 0xC270D968,prop_box_wood02a_mws
@@ -15228,6 +15429,7 @@ hash,key
 0xC2E47B1E,w_at_pi_supp
 0xC2E79E1E,xm3_int3_hut_graf_5
 0xC2EA56A2,sf_int1_upper_c_gubbins
+0xC2EDDCBB,m24_1_prop_m41_palletcrates_01a
 0xC2F4D8BD,m23_1_prop_m31_ghostrurmeth_01a
 0xC2F5AC72,xs_combined2_dyst_07_shipdecals
 0xC2F64203,m23_1_prop_m31_crate_tobacco
@@ -15239,6 +15441,7 @@ hash,key
 0xC30B12FE,prop_bus_stop_sign
 0xC30DA170,vw_prop_casino_slot_02a_reels
 0xC30ED55E,ex_mp_h_tab_sidelrg_07
+0xC311EA9A,m24_1_prop_m41_camera_01a
 0xC3168E74,vfx_it3_30
 0xC31ACB27,xm3_int1_decals_stickers_01
 0xC31E676D,m23_1_prop_m31_roostercrate_01a
@@ -15291,6 +15494,7 @@ hash,key
 0xC3B2CBC2,v_ilev_fingate
 0xC3B3A03F,prop_water_corpse_02
 0xC3B57DFB,v_11_cooler_drs
+0xC3B8868F,m24_1_prop_m41_armour_01a
 0xC3BCCF3A,vw_prop_casino_art_grenade_01d
 0xC3BFD23F,prop_mask_motobike_a
 0xC3C83018,prop_weld_torch
@@ -15386,6 +15590,7 @@ hash,key
 0xC4D413B8,prop_p_spider_01a
 0xC4D47246,v_med_cor_medstool
 0xC4D74CAF,prop_ic_bomb_wh
+0xC4DAEC1B,m24_1_prop_m41_desktop_01a
 0xC4DB468E,v_24_shlfstudybooks
 0xC4DEAF96,w_sg_heavyshotgun_mag2
 0xC4E20493,v_24_bdr_mesh_bed_stuff
@@ -15394,6 +15599,7 @@ hash,key
 0xC4E8CC6D,v_ilev_chopshopswitch
 0xC4EB7406,m23_2_prop_m32_yetifur_01a
 0xC4EDEDE6,xm3_int2_wall_detail_01
+0xC4F073B8,m24_1_prop_m41_server_01a
 0xC4FEEBCF,tr_prop_tr_flipjam_01b
 0xC503F0BB,imp_prop_transmission_lift_01a
 0xC5043AF4,xs_propintarena_structure_s_06b
@@ -15420,6 +15626,7 @@ hash,key
 0xC5501975,sum_mpapyacht_books002
 0xC5534778,v_corp_post_open
 0xC5553C15,prop_candy_pqs
+0xC55BE903,m24_1_prop_m24_1_carrier_jet
 0xC55C0AC2,sf_int1_computerscreen_temp006
 0xC55F0019,h4_rig_dj_04_lights_03_c
 0xC5639312,vfx_it3_33
@@ -15430,6 +15637,7 @@ hash,key
 0xC577AE9C,prop_carrier_bag_01_lod
 0xC5786FA9,ba_rig_dj_03_lights_01_c
 0xC582F04D,vw_prop_vw_club_char_10a
+0xC585A04D,m24_1_prop_m41_curb_5_01e
 0xC5869322,h4_rig_dj_02_lights_03_b
 0xC5891BD6,prop_ld_balcfnc_01a
 0xC58D6055,v_ind_cf_bollard
@@ -15440,9 +15648,11 @@ hash,key
 0xC5938DAB,v_res_msonbed_s
 0xC59560C3,prop_ic_mguns_pk
 0xC597E29C,prop_beach_parasol_08
+0xC5994EDC,m24_1_prop_m41_controlpanel_01a
 0xC59C83A6,prop_ic_bomb_pk
 0xC59DF994,ch3_lod_emissive3_slod3
 0xC5A552B8,v_61_kitc_mesh_lights
+0xC5A5D48D,m24_1_prop_m24_1_carrier_bank_ornatelamp
 0xC5A7E555,v_74_it2_ceiling_smoke_08_skin
 0xC5A7F08E,ex_prop_tv_settop_box
 0xC5AC6A0A,prop_barier_conc_01b
@@ -15460,6 +15670,7 @@ hash,key
 0xC5CD5ABA,v_ilev_mchalkbrd_5
 0xC5CFD255,v_24_lnb_mesh_fireglass
 0xC5CFF974,hei_prop_bh1_08_mp_gar2
+0xC5D6D049,m24_1_prop_m41_arcade_safe_door
 0xC5DC419E,prop_police_phone
 0xC5DE8740,prop_ld_planning_pin_02
 0xC5E0F625,v_74_it2_shell
@@ -15481,6 +15692,7 @@ hash,key
 0xC60F5AC3,ch_prop_ch_cctv_wall_atta_01a
 0xC610B7CA,v_34_puddle
 0xC610E65F,h4_prop_battle_lights_int_03_lr1
+0xC6115865,m24_1_prop_m41_redlight_on_03a
 0xC6175B40,hei_prop_yah_glass_01
 0xC618FE56,stt_prop_wallride_45la
 0xC61B4103,tr_int1_mod_sofa_009
@@ -15531,6 +15743,7 @@ hash,key
 0xC6A36F32,prop_tshirt_shelf_2
 0xC6AC60F4,ng_proc_paper_01a
 0xC6B254AE,prop_air_monhut_03
+0xC6B59444,m24_1_prop_m41_handcuffs_trophy_01a
 0xC6B80181,xm_prop_base_wall_lampb
 0xC6B85C33,p_cs_joint_02
 0xC6C15411,v_34_walkway
@@ -15577,6 +15790,7 @@ hash,key
 0xC74F0605,sf_mpapyacht_deck2_carpets
 0xC751DE82,stt_prop_flagpole_1a
 0xC7530EE8,xm_prop_x17_scuba_tank
+0xC755D30B,m24_1_prop_m41_dolly_02a
 0xC75B01A1,prop_ic_mguns_bl_tr
 0xC75B6747,vfx_it2_07
 0xC75C27F0,xs_prop_arena_turntable_01a
@@ -15611,6 +15825,7 @@ hash,key
 0xC7B01A12,prop_h4_wall_end_2x1_05a
 0xC7B33D89,ng_proc_tyre_01
 0xC7B48DFF,hei_p_m_bag_var22_arm_s
+0xC7B6211F,m24_1_prop_m24_1_carrier_yah_seat_03
 0xC7B8DF90,v_11_ab_pipes003
 0xC7BA5FD9,stt_prop_stunt_track_dwturn
 0xC7BB9D0D,xs_combined_set_dyst_01_build_04
@@ -15625,6 +15840,7 @@ hash,key
 0xC7CCD065,v_ret_ml_beerbar
 0xC7CEE99E,prop_cj_big_boat
 0xC7D672EA,h4_mp_h_acc_artwalll_01
+0xC7D7689A,m24_1_prop_m41_bounty_door_01a
 0xC7D8E890,sf_int1_details_vertical_profiles
 0xC7D9972C,sf_yacht_bridge_glass16
 0xC7DBBF39,xs_prop_trophy_presents_01a
@@ -15636,6 +15852,7 @@ hash,key
 0xC7E66CB0,xm3_prop_xm3_lsd_hplate_01a
 0xC7E87E2C,prop_fncconstruc_01d
 0xC7E8C331,v_res_jcushionc
+0xC7E9910A,m24_1_prop_m41_stnt_trk_fork_xs
 0xC7EBDF5F,vw_prop_vw_spd_char_j_a
 0xC7EDAAC9,v_28_wascor_over
 0xC7EDC41F,prop_fnccorgm_02d
@@ -15680,6 +15897,7 @@ hash,key
 0xC8630F0E,ch_prop_ch_race_gantry_04
 0xC8666989,w_at_heavysnipermk2_camo9
 0xC8674299,imp_prop_impexp_lappy_01a
+0xC86FFE46,m24_1_prop_m24_1_carrier_yah_glass_08
 0xC87399E7,hei_prop_heist_rolladex
 0xC87648C7,vw_prop_art_wall_segment_01a
 0xC8766688,ba_prop_battle_lights_prop_battle_wall_lampa
@@ -15893,6 +16111,7 @@ hash,key
 0xCB2BD9BE,h4_mp_h_acc_candles_05
 0xCB2BF389,prop_beachbag_02
 0xCB2C3311,prop_shelves_03
+0xCB2DC910,m24_1_prop_m41_weazel_pstr_graf_01a
 0xCB31AA82,prop_cs_heist_bag_strap_01
 0xCB3349A8,prop_gate_frame_02
 0xCB362655,dt_additions_ss1_11_colfix
@@ -15913,9 +16132,11 @@ hash,key
 0xCB82F7CD,w_ex_molotov
 0xCB86EB6F,xs_combined2_wallglue_10
 0xCB875040,imp_prop_impexp_parts_rack_05a
+0xCB87DD26,m24_1_prop_m41_box_delivery_01a
 0xCB8B54A0,sr_prop_spec_tube_s_04a
 0xCB8D4D8A,w_sr_marksmanrifle_mag1
 0xCB8E39B4,v_res_r_fighorsestnd
+0xCB8E3C6E,m24_1_prop_m41_stairsdetail_01i
 0xCB8F8B3A,v_74_it3_ser2_debr
 0xCB92589A,sf_int1_apart_wpaper_3
 0xCB9421B9,sum_prop_ac_long_barrier_90d
@@ -15929,6 +16150,7 @@ hash,key
 0xCBB106F1,h4_prop_club_emis_rig_10
 0xCBB6C75A,ba_prop_club_dressing_sign_01
 0xCBB73F4F,hei_prop_heist_tumbler_empty
+0xCBBBDAD7,m24_1_prop_m41_morgue_wall_01a
 0xCBC27B46,v_74_cfemlight_rsref021
 0xCBC396B2,m23_2_prop_m32_yrdwallsafe_door_01a
 0xCBC41275,xm3_int4_light_proxy_main_stairs
@@ -15998,6 +16220,7 @@ hash,key
 0xCC6DEB6F,gr_prop_gr_trailer_tv_02
 0xCC724283,prop_yaught_sofa_01
 0xCC742196,gr_prop_gr_target_small_04a
+0xCC74BF98,m24_1_prop_m41_block_dmy_01f
 0xCC76E63E,csx_rvrbldr_bigc_
 0xCC7A1322,apa_mp_h_floor_lamp_int_08
 0xCC7A443B,sum_prop_sum_arcade_plush_06a
@@ -16045,6 +16268,7 @@ hash,key
 0xCD0D783A,tr_int1_mod_ceillinglights_9
 0xCD115643,xm3_int3_carwarecarware_benches
 0xCD1311A4,prop_kitch_pot_med
+0xCD1325DF,m24_1_prop_m24_1_carrier_station_gate
 0xCD15300E,v_club_roc_cab3
 0xCD175A37,sf_int1_seating004
 0xCD175DCF,prop_hx_deadl_g_tr
@@ -16202,6 +16426,7 @@ hash,key
 0xCF2F0E21,prop_ld_fragwall_01a
 0xCF302B89,tr_int1_mod_lights_1
 0xCF33387E,xs_prop_arena_turntable_02a
+0xCF368131,m24_1_prop_m41_weazel_pstr_01a
 0xCF37F6AD,hei_prop_hei_monitor_overlay
 0xCF38EA47,prop_ex_random_tr
 0xCF3CCA03,v_34_corrcratesb
@@ -16461,6 +16686,7 @@ hash,key
 0xD283B8EB,v_73_cur_sec_deta
 0xD288B2CE,xm3_prop_xm3_bag_tape_01a
 0xD28BE7B5,xs_prop_arena_turntable_01a_sf
+0xD28C1407,m24_1_prop_m41_radiomast_01a
 0xD294EA28,tr_int2_clothes_boxes
 0xD296A215,m23_2_prop_m32_sonar_01b
 0xD29AF7B4,w_mg_combatmgmk2_mag1
@@ -16557,6 +16783,7 @@ hash,key
 0xD3C6D323,prop_table_03_chr
 0xD3CAD5C9,ex_office_swag_jewelwatch
 0xD3CD2F27,proc_sml_stones02
+0xD3CFDF59,m24_1_prop_m41_phone_01a
 0xD3D5A482,tr_prop_meth_bigbag_01a
 0xD3D69366,prop_woodpile_03a
 0xD3E08775,sr_prop_sr_start_line_02
@@ -16590,6 +16817,7 @@ hash,key
 0xD43057F3,v_ret_247_tomsoup1
 0xD430D9F2,tr_int1_mod_sofa_012
 0xD434D189,prop_triple_grid_line
+0xD4390F37,m24_1_prop_m24_1_carrier_aerial_1
 0xD43979F7,port_xr_spoolsm
 0xD43AB94A,reh_prop_reh_outline_01a
 0xD4405E08,prop_roofvent_011a
@@ -16721,6 +16949,7 @@ hash,key
 0xD5E21630,sf_prop_sf_car_keys_01a
 0xD5E7A967,v_74_v_fib02_it1_03
 0xD5E9B0CD,v_31a_tun01bitsnew2
+0xD5F24642,m24_1_prop_m24_1_carrier_cargo_04c
 0xD5F28AED,m23_1_prop_m31_streamerengine
 0xD5F70BEA,prop_oil_derrick_01
 0xD5F9F01D,prop_wheel_rim_04
@@ -16733,6 +16962,7 @@ hash,key
 0xD6116B2C,v_16_high_ktn_mesh_fire
 0xD6134F92,xs_propintarena_structure_s_02b
 0xD61565FB,xm3_int4_mst_mesh_06
+0xD61847B2,m24_1_prop_m24_1_carrier_cargo_01a
 0xD6186D84,lf_house_01_
 0xD61AECBA,prop_cs_kitchen_cab_rd
 0xD61B4C8E,sf_int3_lightswitch_01a013
@@ -16843,6 +17073,7 @@ hash,key
 0xD78459AD,p_ld_heist_bag_s_1
 0xD78528B8,v_ret_247_win1
 0xD786F537,xm3_int1_paper_decals2
+0xD786F62E,m24_1_prop_m41_studiocard_01a
 0xD78B0E87,prop_sponge_01
 0xD78CBDF6,xm3_prop_xm3_safe_01a
 0xD79034EB,prop_forsale_sign_02
@@ -16948,6 +17179,7 @@ hash,key
 0xD8C90F5C,ba_prop_battle_lights_floor
 0xD8C950AD,m23_1_prop_m31_crate_cd_01a
 0xD8D1E41F,sf_int3_lighting_reception02238
+0xD8D47EEE,m24_1_prop_m24_1_carrier_panel_3
 0xD8D74D75,bkr_prop_biker_ceiling_fan_base
 0xD8D816A0,prop_t_telescope_01b
 0xD8DA02A4,tr_int1_mod_style05_posters
@@ -16967,6 +17199,7 @@ hash,key
 0xD9077D39,m23_1_prop_m31_target_04a
 0xD90F625D,bkr_prop_crate_set_01a
 0xD9175BC9,vw_prop_cas_card_spd_jack
+0xD918FFCB,m24_1_prop_m41_scratches_01a
 0xD92E5205,prop_fire_hosereel_l1
 0xD92F6238,p_ld_heist_bag_s_pro
 0xD934D62B,prop_j_heist_pic_04
@@ -16989,6 +17222,7 @@ hash,key
 0xD975E010,v_73_vfx_curve_dummy
 0xD9769538,sf_int1_recessed004
 0xD9787497,xm3_prop_xm3_code_44_23_37
+0xD97DC5F2,m24_1_prop_m41_monitor_02a
 0xD97F7340,v_16_frankstuff_noshad
 0xD9828FCF,v_corp_potplant2
 0xD9898F70,prop_tourist_map_01
@@ -17021,6 +17255,7 @@ hash,key
 0xD9DAC4DE,xm3_mpchristmas3_additions_trainb2_rub
 0xD9DE74B0,v_11_ab_pipes
 0xD9EA038F,v_28_lab_pool_wat1
+0xD9EAC588,m24_1_prop_m24_1_carrier_yah_seat_02
 0xD9F07D2B,ar_prop_ar_neon_gate8x_04a
 0xD9F0B7B9,tr_int1_mod_int_style_3
 0xD9F9A1B6,v_74_v_fib02_it2_cor008
@@ -17160,6 +17395,8 @@ hash,key
 0xDC1F5D6A,prop_inout_tray_02
 0xDC25051A,xm_prop_x17_tv_scrn_05
 0xDC280C4E,prop_cs_sc1_11_gate
+0xDC302CB3,m24_1_prop_m41_corkerssafedoor_01a
+0xDC31E62F,m24_1_prop_m41_curb_15_01c
 0xDC3381F2,prop_ac_pit_lane_blip
 0xDC33AB1B,prop_tri_start_banner
 0xDC3661A5,v_serv_hndtrk_n2_aa_h
@@ -17257,6 +17494,7 @@ hash,key
 0xDD4B2236,prop_ch3_04_door_01l
 0xDD4C1B08,sf_mpsecurity_additions_musicrooftop_lod
 0xDD4C7184,prop_sign_road_05m
+0xDD4F550D,m24_1_prop_m41_bounty_door_s1_r
 0xDD546E3B,v_24_lnb_mesh_artwork
 0xDD5C7BE8,v_res_r_lotion
 0xDD664CCE,v_res_mbaccessory
@@ -17309,6 +17547,7 @@ hash,key
 0xDE1598A3,ng_proc_sodacup_03a
 0xDE167C4F,prop_fib_3b_cover3
 0xDE175D2D,v_res_mp_sofa
+0xDE1C9452,m24_1_prop_m41_bdgr_pstr_graf_01a
 0xDE21A558,prop_weeds_nxg09
 0xDE25F58A,xs_terrain_dystopian_12
 0xDE27267F,w_me_flashlight_flash
@@ -17373,6 +17612,7 @@ hash,key
 0xDEE74AFF,prop_irish_sign_07
 0xDEEAB297,prop_byard_rampold
 0xDEF387DE,prop_bank_shutter
+0xDEF66BBC,m24_1_prop_m41_curb_15_01a
 0xDEF682AF,prop_beach_lotion_01
 0xDEF796EA,sf_int3_floorbox006
 0xDEFC7D1A,ch_prop_ch_vault_blue_02
@@ -17499,6 +17739,7 @@ hash,key
 0xE039C322,des_farmhs_root6
 0xE03EB7BE,prop_tshirt_stand_04
 0xE03FAC62,p_cs1_14b_train_s_colopen
+0xE0411569,m24_1_prop_m41_handcuffs_01a
 0xE0415048,prop_cs_30m_rope
 0xE041E482,xm3_int3_intwaremed_wall_lamp024
 0xE0492FAE,tr_prop_tr_meet_coll_01
@@ -17663,6 +17904,7 @@ hash,key
 0xE21515C6,v_corp_cd_chair
 0xE2174D98,imp_prop_impexp_spoiler_02a
 0xE2214F94,kt1_16_dirt0302
+0xE224A275,m24_1_prop_m41_glass_01a
 0xE22A202A,prop_coral_kelp_03_l1
 0xE22B11E1,imp_prop_impexp_car_door_03a
 0xE22B4CD9,prop_air_cargo_04b
@@ -17746,12 +17988,14 @@ hash,key
 0xE3492D60,prop_wall_light_10b
 0xE34A7285,m23_2_prop_m32_redlight_01a
 0xE34BE0B3,sf_prop_sf_door_stud_01b
+0xE34D316A,m24_1_prop_m41_circuitbox_open_01a
 0xE35B8830,prop_ld_rail_02
 0xE35C090E,v_ind_ss_thread7
 0xE35D2A4B,csx_coastboulder_06_
 0xE364E78C,vw_prop_vw_wallart_46a
 0xE36E4FAD,prop_air_terlight_01b
 0xE37A5F0F,prop_gas_02
+0xE37C1578,m24_1_prop_m41_shield_trophy_01a
 0xE3823CC9,w_mg_combatmgmk2_camo8
 0xE3868D6D,sf_prop_grinder_01a
 0xE3881F0A,des_showroom_root
@@ -17836,6 +18080,7 @@ hash,key
 0xE47A6143,xm3_int3_hut_graf_3
 0xE47BEE24,prop_mk_cylinder
 0xE481545C,sf_mpapyacht_bar1_shell
+0xE48224EE,m24_1_prop_m41_statue_01a
 0xE48C22EB,sum_mpapyacht_mirror2
 0xE48FBAB7,v_28_pool_deca
 0xE49C1D53,v_74_it2_ceiling_smoke_07_skin
@@ -17851,6 +18096,7 @@ hash,key
 0xE4B0AE85,prop_bar_fridge_01
 0xE4B3B442,sf_int2_track_light
 0xE4B663B9,sf_int1_office_wpaper_9
+0xE4B93F7F,m24_1_prop_m41_redlight_off_01a
 0xE4BA591D,reh_prop_reh_keycard_01a
 0xE4BE0280,prop_ex_weed_g
 0xE4C14429,sf_int2_elevators
@@ -17916,6 +18162,7 @@ hash,key
 0xE58CC34C,xm_prop_crates_pistols_01a
 0xE591CC5D,hei_prop_heist_drill
 0xE596195A,xm3_prop_xm3_med_glvbox_01b
+0xE59D53BD,m24_1_prop_m41_monitor_01a
 0xE59F1751,prop_pot_plant_03c
 0xE5A4774E,
 0xE5A76D82,hei_heist_acc_storebox_01
@@ -18129,6 +18376,7 @@ hash,key
 0xE855008C,v_ilev_247_offdorr
 0xE85A2F2D,rifle_vector
 0xE85D0D8E,ba_prop_battle_bag_01a
+0xE85FF8BF,m24_1_prop_m41_emblmtable_01a
 0xE8601C4F,ch_prop_ch_entrance_door_beam
 0xE8617484,prop_j_heist_pic_03
 0xE863A1A7,reh_int4_style_3_shell_dirt_decal8
@@ -18417,6 +18665,7 @@ hash,key
 0xEBFAE9D6,v_res_mconsolemod
 0xEBFF92B1,sum_prop_ac_monstermask_01a
 0xEC013325,prop_feed_sack_01
+0xEC02F661,m24_1_prop_m41_plant_01a
 0xEC04C9B8,prop_cs_diaphram
 0xEC06E146,prop_plant_group_05b
 0xEC0725C8,ar_prop_ar_jetski_ramp_01_dev
@@ -18438,6 +18687,7 @@ hash,key
 0xEC3D031B,w_sb_compactsmg
 0xEC3D8FEA,prop_mug_01
 0xEC3F5FD8,vw_prop_vw_arcade_01a
+0xEC3F8DA2,m24_1_prop_m41_electricbox_01a
 0xEC3F8F6E,prop_sign_road_05b
 0xEC415A88,prop_06_sig1_j
 0xEC42B38E,prop_cuff_keys_01
@@ -18476,6 +18726,7 @@ hash,key
 0xECBDC30C,h4_prop_h4_barrel_01a
 0xECC02003,h4_prop_casino_blckjack_01d
 0xECC4728A,v_8_kitchdecdirt
+0xECCB662A,m24_1_prop_m41_fortune_01a
 0xECCFA312,cloudhat_test_anim
 0xECD0B308,ba_rig_dj_04_lights_03_c
 0xECD538E7,prop_birdbath1
@@ -18552,6 +18803,7 @@ hash,key
 0xEDC2B140,v_med_hospseating3
 0xEDC48F9F,prop_weed_02
 0xEDC75F3E,w_ar_specialcarbinemk2_camo_ind
+0xEDCA4259,m24_1_prop_m24_1_carrier_aerial_2
 0xEDCD0D39,v_73_glass_5_deta2
 0xEDCDBE97,prop_ld_rubble_02
 0xEDCDC07F,tr_int2_angled_kerbs
@@ -18580,6 +18832,7 @@ hash,key
 0xEE0BF0C2,prop_ld_hook
 0xEE0F0F76,v_11_abplatmoveinbet
 0xEE1B2337,prop_drywallpile_02
+0xEE1E3123,m24_1_prop_m41_handcuffs_01b
 0xEE1FECED,apa_prop_yacht_glass_05
 0xEE22B568,w_at_pi_rail_2
 0xEE271E52,reh_prop_reh_tablet_01a
@@ -18713,6 +18966,7 @@ hash,key
 0xEFAAE110,prop_air_cargo_02a
 0xEFAE2A61,w_ar_bullpuprifle_luxe_mag1
 0xEFB5364B,prop_bmu_track02
+0xEFB5AD5C,m24_1_prop_m41_smallbag_01a
 0xEFB6165B,prop_rub_carwreck_5
 0xEFBAEE79,ex_cash_roll_01
 0xEFBF0014,xs_combined_dystopian_14_brdg01
@@ -18738,6 +18992,7 @@ hash,key
 0xEFF8A7CA,tr_int1_mod_pillars01
 0xF00396AD,v_31a_worklight_03b
 0xF008789B,w_sb_compactsmg_boxmag
+0xF00B98D3,m24_1_prop_m41_corkerswallsafe_01a
 0xF00BEC6F,xs_prop_arena_barrel_01a
 0xF00F0515,ch_prop_ch_service_door_01b
 0xF013C580,prop_artgallery_02_dl
@@ -18746,6 +19001,7 @@ hash,key
 0xF017500D,prop_rock_1_d
 0xF018E784,v_34_offoverlay
 0xF023BCE5,v_34_cb_shell3
+0xF024E218,m24_1_prop_m41_officedesk_01a
 0xF0297CE1,h4_prop_h4_chair_02a
 0xF02A7163,sr_prop_stunt_tube_crn_5d_01a
 0xF0317052,v_28_loa_lamp
@@ -18756,7 +19012,9 @@ hash,key
 0xF0389168,apa_p_mp_door_apart_door
 0xF03A89ED,w_sr_marksmanriflemk2_camo3
 0xF03BEB5F,prop_byard_trailer01
+0xF03BFF4D,m24_1_prop_m41_armoire_01a
 0xF03C985C,prop_ch2_07b_20_g_door
+0xF0425B66,m24_1_prop_m41_ghost_dom_01a
 0xF042F402,prop_rock_3_h
 0xF046B161,h4_prop_yacht_glass_06
 0xF046EA37,prop_gold_bar
@@ -18788,6 +19046,7 @@ hash,key
 0xF08BF037,v_16_high_lng_details
 0xF08E1452,v_ret_ml_beerbla1
 0xF08FD63A,prop_elecbox_08b
+0xF09081B9,m24_1_prop_m41_rm_crate_m_01a
 0xF0910603,w_sg_pumpshotgunmk2_camo10
 0xF0978B0A,hei_p_post_heist_meth_stash
 0xF099F5BF,sum_mpapyacht_bedr2_lamps
@@ -18801,6 +19060,7 @@ hash,key
 0xF0BC68F1,sf_yacht_bridge_glass18
 0xF0BCD82A,prop_mk_tri_run
 0xF0BDDF93,stt_prop_tyre_wall_0l06
+0xF0C20BE5,m24_1_prop_m41_circuitbox_01a
 0xF0C46723,p_bison_winch_s
 0xF0CA8313,xs_propint3_waste_01_statues
 0xF0CC105C,v_73_v_fib_flag_a002
@@ -18816,6 +19076,7 @@ hash,key
 0xF0E7834D,sum_prop_ac_short_barrier_30d
 0xF0EA8AE4,prop_fncwood_14c
 0xF0EC4A4C,xs_propintarena_structure_s_01ald
+0xF0F34473,m24_1_prop_m41_outofordersign_01a
 0xF0FC9C4F,v_res_tt_tvremote
 0xF10729F6,h4_rig_dj_03_lights_02_c
 0xF1077DD6,v_ret_fh_doorframe
@@ -18848,9 +19109,11 @@ hash,key
 0xF15F72B2,prop_ld_fags_02
 0xF15FB3DD,prop_beggers_sign_01
 0xF166B3CD,ex_cash_scatter_02
+0xF16A0982,m24_1_prop_m41_block_dmy_01b
 0xF16DC284,h4_prop_h4_pot_01a
 0xF16DE1EE,prop_byard_elecbox02
 0xF18101D2,sf_lightattach_room_standard
+0xF1812661,m24_1_prop_m41_morgue_wall_01b
 0xF181C0AD,v_ilev_cd_lampal_off
 0xF182083D,m23_2_prop_m32_hatch_01a
 0xF18339BB,xm3_mpchristmas3_additions_train_lod04
@@ -18888,6 +19151,7 @@ hash,key
 0xF1D637E7,sr_prop_special_bblock_lrg3
 0xF1DA8F99,sum_prop_ac_drinkglobe_01a
 0xF1DC5F09,prop_mk_race_chevron_01
+0xF1DFBBB0,m24_1_prop_m41_ladder_platform_01a
 0xF1E14883,v_74_vfx_it3_3b_004
 0xF1E273EE,w_ar_specialcarbinemk2_camo5
 0xF1E66A33,cloudhat_cloudy_a
@@ -18917,6 +19181,7 @@ hash,key
 0xF22B8B9C,v_28_lab1_glas
 0xF22B9BDA,prop_yoga_mat_01
 0xF22D7E0E,vfx_it3_18
+0xF23379A8,m24_1_prop_m41_curb_5_01c
 0xF234B614,xs_prop_x18_transmission_lift_01a
 0xF235D67C,v_19_strpprvrmcrt008
 0xF2387F42,v_corp_offshelf
@@ -18995,6 +19260,7 @@ hash,key
 0xF3305DB3,sf_mp_apa_y2_l2d
 0xF3349D38,prop_suitcase_01c
 0xF336F938,prop_streetlight_10
+0xF33A3B6B,m24_1_prop_m41_palmplant_01a
 0xF34020F6,prop_satdish_2_b
 0xF34136D4,xs_prop_nacho_wl
 0xF3424B36,m23_2_prop_m32_lgstretcher_01a
@@ -19011,6 +19277,7 @@ hash,key
 0xF360F3D8,prop_lifeblurb_02b
 0xF365F379,w_smug_airmissile_02
 0xF369105D,sf_weed_entry_door
+0xF374CF37,m24_1_prop_m41_lounger_01a
 0xF3759786,sum_yacht_bridge_glass10
 0xF37D111D,xs_prop_arena_landmine_01c
 0xF37FABD8,sum_mpapyacht_bath1_shell
@@ -19038,6 +19305,7 @@ hash,key
 0xF3B1DA5E,sum_mp_yacht_worldmap
 0xF3B38B02,prop_ball_box
 0xF3B59915,v_16_high_hall_over_dirt
+0xF3BD3FBF,m24_1_prop_m24_1_carrier_docklight_02
 0xF3BDE9FB,p_cs_beverly_lanyard_s
 0xF3BF3EB6,prop_rub_litter_04b
 0xF3C33285,prop_mp_barrier_02b
@@ -19049,6 +19317,7 @@ hash,key
 0xF3D9EE66,xs_prop_arena_champ_open
 0xF3DB4DD0,v_19_stp3fistank
 0xF3DF35F9,prop_spycam
+0xF3E20D15,m24_1_prop_m41_stairsdetail_01f
 0xF3E48A37,xs_prop_arena_pipe_track_c_01d
 0xF3E57561,xs_prop_vipl_lights_ceiling_l_d
 0xF3ECF077,v_res_fa_phone
@@ -19136,6 +19405,7 @@ hash,key
 0xF523A8AE,v_74_vfx_it3_005
 0xF53536E9,v_19_stplightspriv
 0xF537FE5D,bkr_prop_coke_dollcast
+0xF539D4DA,m24_1_prop_m41_hackterminal_dam_01a
 0xF53A21FB,hei_prop_heist_roller
 0xF53A25AD,v_28_prh_shut
 0xF53A45FD,prop_cs_heist_rope_b
@@ -19404,6 +19674,7 @@ hash,key
 0xF895A58F,sf_int3_glass_table_02
 0xF89B66B7,v_serv_abox_g1
 0xF8A4BD92,tr_int1_mod_lframe_01a_proxy
+0xF8A9A162,m24_1_prop_m41_hackterminal_01b
 0xF8AC2D70,ch_prop_casino_poker_01a
 0xF8AC580E,v_ilev_vagostoiletdoor
 0xF8ACDC04,v_club_vu_bear
@@ -19519,6 +19790,7 @@ hash,key
 0xFA2B9C81,prop_h4_corridorz_3x3_01a
 0xFA2E099C,prop_fire_hydrant_2
 0xFA35B2F2,w_me_knuckle_bg
+0xFA38B021,m24_1_prop_m24_1_carrier_disp_01
 0xFA3AEEC6,v_19_strpprvrmcrt013
 0xFA3B2430,vw_prop_book_stack_03a
 0xFA3D47FA,prop_recyclebin_05_a
@@ -19532,6 +19804,7 @@ hash,key
 0xFA546702,prop_roofvent_05b
 0xFA549604,v_ind_cs_oiltin
 0xFA5676E0,v_res_fa_bread02
+0xFA598BB4,m24_1_prop_m24_1_carrier_cargo_05b
 0xFA5B012A,cloudhat_cloudy_base
 0xFA5F56A7,gr_prop_inttruck_light_ca_g_dg
 0xFA5F8168,prop_tree_stump_01
@@ -19587,6 +19860,7 @@ hash,key
 0xFAF7A1BA,prop_bodyarmour_06
 0xFAF8CB53,xm_prop_control_panel_tunnel
 0xFB00D71A,ng_proc_sodacan_02a
+0xFB01FC2F,m24_1_prop_m41_drug_pkg_01a
 0xFB05F835,prop_h4_corridor_6x10_01a
 0xFB09046A,prop_veg_crop_05
 0xFB0D85DA,xm_prop_x17_flight_rec_01a
@@ -19672,6 +19946,7 @@ hash,key
 0xFC03A729,prop_target_comp_wood
 0xFC09D2AE,sf_int1_stairs_wpaper_2
 0xFC0D2F15,stt_prop_track_speedup_t2
+0xFC0DF756,m24_1_prop_m24_1_carrier_crate_01a_s
 0xFC11E083,v_ret_ps_box_03
 0xFC17CDF1,v_34_waredamp
 0xFC1C3DCB,prop_couch_lg_07
@@ -19733,6 +20008,7 @@ hash,key
 0xFCC93F52,vw_prop_vw_wallart_61a
 0xFCCA4A08,v_34_corrdirt4
 0xFCCB4671,xs_prop_trophy_bandito_01a
+0xFCCC97C6,m24_1_prop_m24_1_carrier_stair_01b
 0xFCCD5B08,v_ret_ml_beeram
 0xFCCF70F1,sf_mp_apa_y2_l2c
 0xFCCFE37F,gr_dlc_gr_yacht_props_glass_10
@@ -19845,8 +20121,10 @@ hash,key
 0xFE581052,prop_byard_benchset
 0xFE5ED555,vfx_it2_03
 0xFE64A913,prop_pile_dirt_07
+0xFE64D8D7,m24_1_prop_m41_bounty_door_s3_r
 0xFE692197,prop_ch3_01_trlrdoor_l
 0xFE6E928A,prop_bush_med_01
+0xFE725DE6,m24_1_prop_m41_painting_01d
 0xFE76512D,v_res_fa_tincorn
 0xFE776828,tr_int1_mod_int_det_style_2
 0xFE7880BB,tr_int1_smodd_cor_hose_001
@@ -19889,6 +20167,7 @@ hash,key
 0xFF0994F6,prop_seabrain_01
 0xFF0DD8EA,sm_hanger_basic_desk
 0xFF112DDD,xs_propint5_waste_10_ground
+0xFF15879A,m24_1_prop_m41_rug_01a
 0xFF1839EC,apa_mp_h_ceiling_light_02
 0xFF18DD05,v_74_servdesk002
 0xFF1F0D75,h4_prop_sub_lift_platfom
@@ -19905,6 +20184,7 @@ hash,key
 0xFF3AD5EC,sm_prop_smug_hgrdoors_03
 0xFF3F139D,ba_prop_battle_dj_mixer_01a
 0xFF426713,prop_logpile_07b
+0xFF447519,m24_1_prop_m24_1_carrier_cargo_04b_s
 0xFF4B318C,prop_gnome3
 0xFF4BA33F,ba_prop_club_dressing_poster_02
 0xFF546269,v_74_cfemlight_rsref025

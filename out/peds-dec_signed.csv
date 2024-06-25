@@ -27,6 +27,7 @@ hash,key
 131961260,a_m_m_eastsa_02
 153984193,a_f_y_indian_01
 161007533,cs_maryann
+173935423,s_m_m_bailoffice_01
 183230355,ig_pilot_02
 188012277,ig_zimbor
 189425762,s_m_y_baywatch_01
@@ -75,6 +76,7 @@ hash,key
 377976310,a_m_y_eastsa_02
 379310561,a_f_m_prolhost_01
 390939205,a_m_o_tramp_01
+396172111,g_m_m_zombie_03
 399022197,csb_avischwartzman_03
 400495475,ig_djblamryanh
 402729631,a_c_crow
@@ -330,6 +332,7 @@ hash,key
 1346941736,u_m_y_paparazzi
 1347814329,a_f_m_tourist_01
 1348537411,a_f_y_femaleagent
+1349590050,ig_mechanic_03
 1349953339,s_m_y_blackops_03
 1358380044,a_m_y_hiker_01
 1371553700,a_f_y_eastsa_03
@@ -357,6 +360,7 @@ hash,key
 1446741360,a_f_y_tourist_01
 1456041926,s_m_m_prisguard_01
 1456705429,mp_m_cocaine_01
+1457317744,ig_jenettee
 1457690978,a_c_cormorant
 1459905209,ig_jimmydisanto
 1461287021,ig_trafficwarden
@@ -392,6 +396,8 @@ hash,key
 1566545691,csb_tonyprince
 1567728751,s_f_y_airhostess_01
 1573528872,u_f_y_mistress
+1574377635,ig_bountytarget_02
+1581050842,ig_maudebf
 1581098148,s_m_y_cop_01
 1590147279,ig_mechanic_02
 1594283837,csb_bogdan
@@ -478,6 +484,7 @@ hash,key
 1918178165,cs_lifeinvad_01
 1925237458,s_m_y_marine_03
 1925887591,csb_alan
+1928962749,csb_maude_02
 1936142927,s_m_m_postal_02
 1937203007,ig_jio
 1939545845,s_m_y_hwaycop_01
@@ -594,6 +601,7 @@ hash,key
 -1921063516,csb_moodyman_02
 -1920284487,a_c_killerwhale
 -1920001264,s_m_y_swat_01
+-1886323690,ig_bountytarget_03
 -1880237687,g_m_y_korean_02
 -1872961334,g_m_y_salvaboss_01
 -1871394224,s_m_m_fieldworker_01
@@ -629,9 +637,11 @@ hash,key
 -1751606120,u_m_m_blane
 -1747893069,ig_moodyman_02
 -1745486195,a_f_y_hipster_02
+-1739285308,g_m_m_zombie_02
 -1739208332,mp_m_counterfeit_01
 -1736970383,a_m_y_genstreet_01
 -1734476390,csb_money
+-1733259699,ig_bountytarget_06
 -1731772337,a_m_y_stbla_02
 -1730657121,csb_party_promo
 -1728841192,csb_mjo_02
@@ -687,6 +697,7 @@ hash,key
 -1549575121,cs_drfriedlander
 -1538846349,a_m_y_eastsa_01
 -1538297973,csb_customer
+-1529370981,ig_bountytarget_01
 -1528782338,cs_stevehains
 -1519524074,a_f_o_soucent_02
 -1519253631,a_m_y_gay_02
@@ -823,6 +834,7 @@ hash,key
 -984709238,g_m_y_armgoon_02
 -982642292,ig_patricia
 -973145378,s_m_y_construct_02
+-971278255,g_m_m_zombie_01
 -969978574,a_m_y_clubcust_02
 -961242577,u_m_y_guido_01
 -951490775,a_f_y_runner_01
@@ -911,6 +923,7 @@ hash,key
 -609128318,csb_miguelmadrazo
 -607414220,cs_clay
 -606915623,s_m_m_hazmatworker_01
+-604039959,ig_bountytarget_05
 -598109171,u_m_y_pogo_01
 -597926235,ig_taocheng
 -592375632,csb_jio_02
@@ -967,6 +980,7 @@ hash,key
 -401698464,ig_brucie2
 -398748745,g_m_y_famca_01
 -396800478,csb_grove_str_dlr
+-372985740,ig_bountytarget_04
 -367559459,csb_ary_02
 -359228352,cs_casey
 -357782800,cs_zimbor
@@ -1006,6 +1020,7 @@ hash,key
 -220552467,s_m_m_marine_01
 -215821512,a_f_m_soucent_02
 -208086447,csb_thornton
+-199344646,csb_jenettee
 -199280229,csb_oscar
 -198252413,g_m_y_ballaeast_01
 -178150202,a_m_y_roadcyc_01

@@ -412,6 +412,7 @@ csb_isldj_04
 csb_jackhowitzer
 csb_jamalamir
 csb_janitor
+csb_jenettee
 csb_jio
 csb_jio_02
 csb_johnny_guns
@@ -419,6 +420,7 @@ csb_juanstrickler
 csb_labrat
 csb_luchadora
 csb_maude
+csb_maude_02
 csb_miguelmadrazo
 csb_mimi
 csb_mjo
@@ -499,6 +501,9 @@ g_m_m_mexboss_01
 g_m_m_mexboss_02
 g_m_m_prisoners_01
 g_m_m_slasher_01
+g_m_m_zombie_01
+g_m_m_zombie_02
+g_m_m_zombie_03
 g_m_y_armgoon_02
 g_m_y_azteca_01
 g_m_y_ballaeast_01
@@ -552,6 +557,12 @@ ig_benny_02
 ig_bestmen
 ig_beverly
 ig_billionaire
+ig_bountytarget_01
+ig_bountytarget_02
+ig_bountytarget_03
+ig_bountytarget_04
+ig_bountytarget_05
+ig_bountytarget_06
 ig_brad
 ig_bride
 ig_brucie2
@@ -631,6 +642,7 @@ ig_jamalamir
 ig_janet
 ig_jay_norris
 ig_jaywalker
+ig_jenettee
 ig_jewelass
 ig_jimmyboston
 ig_jimmyboston_02
@@ -668,8 +680,10 @@ ig_marnie
 ig_maryann
 ig_mason_duggan
 ig_maude
+ig_maudebf
 ig_mechanic_01
 ig_mechanic_02
+ig_mechanic_03
 ig_michelle
 ig_miguelmadrazo
 ig_milton
@@ -840,6 +854,7 @@ s_m_m_armoured_02
 s_m_m_autoshop_01
 s_m_m_autoshop_02
 s_m_m_autoshop_03
+s_m_m_bailoffice_01
 s_m_m_bouncer_01
 s_m_m_bouncer_02
 s_m_m_ccrew_01
