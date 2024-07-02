@@ -105,6 +105,7 @@ weapon_stinger
 weapon_stone_hatchet
 weapon_stungun
 weapon_stungun_mp
+weapon_stunrod
 weapon_switchblade
 weapon_tacticalrifle
 weapon_tranquilizer
