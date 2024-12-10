@@ -42,6 +42,7 @@ baller7
 baller8
 banshee
 banshee2
+banshee3
 barracks
 barracks2
 barracks3
@@ -132,6 +133,7 @@ cargobob
 cargobob2
 cargobob3
 cargobob4
+cargobob5
 cargoplane
 cargoplane2
 casco
@@ -143,6 +145,7 @@ cerberus
 cerberus2
 cerberus3
 champion
+chavosv6
 cheburek
 cheetah
 cheetah2
@@ -175,6 +178,7 @@ coquette2
 coquette3
 coquette4
 coquette5
+coquette6
 corsita
 coureur
 cruiser
@@ -221,11 +225,14 @@ dorado
 double
 drafter
 draugur
+driftcheburek
 driftcypher
 drifteuros
 driftfr36
 driftfuto
+driftfuto2
 driftjester
+driftjester3
 driftnebula
 driftremus
 driftsentinel
@@ -246,6 +253,7 @@ dune3
 dune4
 dune5
 duster
+duster2
 dynasty
 elegy
 elegy2
@@ -282,6 +290,7 @@ felon
 felon2
 feltzer2
 feltzer3
+firebolt
 firetruk
 fixter
 flashgt
@@ -297,6 +306,7 @@ freight
 freight2
 freightcar
 freightcar2
+freightcar3
 freightcont1
 freightcont2
 freightgrain
@@ -389,6 +399,7 @@ jester
 jester2
 jester3
 jester4
+jester5
 jet
 jetmax
 journey
@@ -518,8 +529,11 @@ picador
 pigalle
 pipistrello
 pizzaboy
+polcaracara
+polcoquette4
 poldominator10
 poldorado
+polfaction2
 polgauntlet
 polgreenwood
 police
@@ -535,6 +549,7 @@ policet3
 polimpaler5
 polimpaler6
 polmav
+polterminus
 pony
 pony2
 postlude
@@ -735,6 +750,7 @@ tigon
 tiptruck
 tiptruck2
 titan
+titan2
 toreador
 torero
 torero2
@@ -787,6 +803,7 @@ turismor
 tvtrailer
 tyrant
 tyrus
+uranus
 utillitruck
 utillitruck2
 utillitruck3
@@ -848,6 +865,7 @@ youga
 youga2
 youga3
 youga4
+youga5
 z190
 zeno
 zentorno

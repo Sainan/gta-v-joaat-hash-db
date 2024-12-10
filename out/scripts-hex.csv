@@ -64,6 +64,7 @@ hash,key
 0x0E1819BF,ob_cashregister
 0x0E6B4A2E,vehicle_gen_controller
 0x0E7D9ACA,hunting2
+0x0ED3B470,hacker_den_seating
 0x0EDDD2EA,rollercoaster
 0x0F2F150A,barry1
 0x0F2F7B43,nigel2
@@ -87,6 +88,7 @@ hash,key
 0x148BDD9A,taxi_gotyourback
 0x14B3DC00,fbi4_prep3amb
 0x14B421AA,gb_gunrunning_defend
+0x152EA9B4,am_mp_field_hangar
 0x15902B0E,apptrackify
 0x15DAC453,fixer_hq_seating_pq
 0x164E8DEE,xml_menus
@@ -120,6 +122,7 @@ hash,key
 0x1DC6B680,carmod_shop
 0x1DCDD43D,ob_sofa_franklin
 0x1E053D07,nigel1d
+0x1E147F7C,fm_content_community_outreach
 0x1E23069A,rural_bank_setup
 0x1ED5A03D,am_mp_simeon_showroom
 0x1EDB989A,finale_heist_prepd
@@ -137,6 +140,7 @@ hash,key
 0x2260124D,bailbond4
 0x2262DDF0,am_mp_warehouse
 0x2299F4D4,fbi4_prep5
+0x22F1852B,fm_content_hacker_house_prep
 0x230D1E0D,am_mp_drone
 0x2334F600,gb_biker_bad_deal
 0x2363D09D,fm_content_bar_resupply
@@ -188,6 +192,7 @@ hash,key
 0x2EDB35EC,re_gang_intimidation
 0x2F3F2FFA,launcher_darts
 0x2F5CF78C,pausemenu_example
+0x2FE910FA,word_hack
 0x304094ED,luxe_veh_activity
 0x305E9061,fbi4_prep4
 0x30AE7469,blimptest
@@ -226,6 +231,7 @@ hash,key
 0x3872D8B6,car_roof_test
 0x38BA60A8,navmeshtest
 0x38C0DADF,casino_exterior_seating
+0x38C7625E,fm_content_hacker_whistle_fin
 0x39245013,am_mp_arcade_love_meter
 0x3936DCD0,rampage1
 0x399706A9,tuneables_processing
@@ -237,6 +243,7 @@ hash,key
 0x3A5BBA05,am_casino_limo
 0x3A7231B0,fm_content_pizza_delivery
 0x3B687CD3,re_duel
+0x3B977C99,am_mp_rpa_menu
 0x3BBCAFFD,apporganiser
 0x3BF97FCD,tennis
 0x3BFE1A77,am_mp_carwash_launch
@@ -286,6 +293,7 @@ hash,key
 0x45B42E86,magdemo
 0x45BD5447,gb_point_to_point
 0x460D1F86,armenian2
+0x4643FE9B,field_hangar_seating
 0x46E6DB5A,bailbond2
 0x473B26BE,am_mp_vinewood_premium_modshop
 0x478FC909,extreme2
@@ -410,6 +418,7 @@ hash,key
 0x646F7D9B,tasklist_1
 0x64AD4306,gb_biker_rippin_it_up
 0x64D25DE7,scaleformgraphictest
+0x64D6BE1A,circuitblockhack
 0x65F0071B,family1
 0x664E7988,fake_interiors
 0x6666B2B9,magdemo2
@@ -421,6 +430,7 @@ hash,key
 0x6834EEB9,laptop_trigger
 0x6838B35E,net_freemode_debug_2023
 0x68867AF7,am_island_backup_heli
+0x68BEA43C,hacker_den_ext_seating
 0x6908A034,photographywildlife
 0x692F8E30,am_mp_vehicle_reward
 0x694EB570,appbailoffice
@@ -507,6 +517,7 @@ hash,key
 0x7B205D81,multistorey_garage_ext_seating
 0x7B35B1AA,family2
 0x7B3E31D2,gb_contraband_sell
+0x7B930E22,apphackerden
 0x7BB4CE08,error_listener
 0x7BD40072,am_hs4_lsa_take_vel
 0x7BE20024,gpb_baygor
@@ -526,7 +537,6 @@ hash,key
 0x804DA739,mg_race_to_point
 0x80925960,wardrobe_sp
 0x80A17ECA,michael1
-0x80A96CAF,public_mission_creator
 0x80AF754F,shrinkletter
 0x80CFE974,blip_controller
 0x80DB583B,mission_repeat_controller
@@ -553,6 +563,7 @@ hash,key
 0x881750F6,puzzle
 0x8822F9C3,gpb_tonya
 0x88472185,appvinewoodmenu
+0x88967BFE,fm_content_hacker_cargo_finale
 0x8937FD24,josh1
 0x8961D933,act_cinema
 0x899ABB38,fameorshame_eps_1
@@ -589,6 +600,7 @@ hash,key
 0x901204F0,assassin_construction
 0x9025754A,mp_awards
 0x90888D02,appemail
+0x90EF55CC,fm_content_arms_trafficking
 0x90EFDCAD,dialogue_handler
 0x9114379B,gb_ie_delivery_cutscene
 0x911D3F21,appprogresshub
@@ -640,6 +652,7 @@ hash,key
 0x9B8FF755,taxi_deadline
 0x9B9330A1,am_hs4_isd_take_vel
 0x9BF88E0E,fm_content_movie_props
+0x9C0D52BB,am_mp_hotwire
 0x9C0D6F05,exile3
 0x9C273413,fm_content_hsw_time_trial
 0x9C6F5716,am_mp_armory_aircraft
@@ -702,6 +715,7 @@ hash,key
 0xA8D5E84C,am_kill_list
 0xA8F75AE1,am_rollercoaster
 0xA9165795,gb_biker_joust
+0xA9C0A074,fm_content_hacker_cargo_prep
 0xAA3368FC,am_mp_shooting_range
 0xAA3A7536,mission_race
 0xAA3C3E2F,stunt_plane_races
@@ -752,6 +766,7 @@ hash,key
 0xB5278C95,fm_content_tuner_robbery
 0xB57685C9,hairdo_shop_mp
 0xB57E86A9,error_thrower
+0xB5A1E30B,am_mp_hacker_den
 0xB6076995,michael4
 0xB618AEBB,carwash2
 0xB67E9C84,walking_ped
@@ -776,6 +791,7 @@ hash,key
 0xBA1F8377,docks_heista
 0xBA6BCE2D,basic_creator
 0xBAF7CD9C,celebration_editor
+0xBAFF9ADA,fm_content_hacker_zancudo_fin
 0xBB0BE30C,player_scene_mf_traffic
 0xBB296674,appsettings
 0xBB3D7E9D,car_meet_carmod
@@ -828,6 +844,7 @@ hash,key
 0xC846979E,docks_prep2b
 0xC85B5BEF,am_mp_business_hub
 0xC8608F32,three_card_poker
+0xC86307DF,fm_content_hacker_zancudo_prep
 0xC875557D,freemode
 0xC8E1126C,finale_heist2b
 0xC8E22793,epscars
@@ -860,6 +877,7 @@ hash,key
 0xCE290220,scripttest4
 0xCE92791D,finale_heist1
 0xCF41E0DB,finale_endgame
+0xCF45F2D6,am_simosa
 0xCF551C30,michael3
 0xCF654B49,golf_mp
 0xD012831F,murdermystery
@@ -891,6 +909,7 @@ hash,key
 0xD5597100,grid_arcade_cabinet
 0xD59681DA,train_create_widget
 0xD62F3FA7,postrc_nigel3
+0xD657C29D,hacker_den_carmod
 0xD689E062,general_test
 0xD725D9E4,jewelry_prep1b
 0xD76D873D,am_mp_casino_apartment
@@ -971,6 +990,7 @@ hash,key
 0xE7587A49,jewelry_prep1a
 0xE79AE0EF,sclub_front_bouncer
 0xE81212C6,camhedz_arcade
+0xE8436287,fm_content_hacker_whistle_prep
 0xE86536D1,re_drunkdriver
 0xE895E13E,am_rontrevor_cut
 0xE8DA8C5F,gb_security_van
@@ -993,6 +1013,7 @@ hash,key
 0xEC2648F1,ambient_tonyacall2
 0xEC70FAEB,paparazzo4
 0xEC7D435E,rampage4
+0xEC843198,fm_content_hacker_house_finale
 0xECFD5FAB,launcher_thelastone
 0xED743044,rng_output
 0xED8A9937,ob_mr_raspberry_jam
@@ -1051,6 +1072,7 @@ hash,key
 0xFA4CAE04,gtest_avoidance
 0xFA543B0A,chop
 0xFA61481F,mp_unlocks
+0xFA69A1D8,fm_content_drone
 0xFA9A07BF,pb_busker
 0xFB30320A,gb_gangops
 0xFB8D91E1,fm_content_smuggler_resupply
